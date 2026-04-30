@@ -1,0 +1,1001 @@
+transaction_id,purchase_date,customer_name,item_category,brand,unit_price,quantity_sold,payment_method,store_location,customer_rating,is_returned
+1,2/3/2025,Lanita Frango,RAM,MSI,42168.79,4,GCash,Davao City,3,false
+2,6/4/2025,Donal Aliman,Processors,MSI,8436.18,4,GCash,Taguig,3,false
+3,1/1/2025,Lulita Pankethman,Keyboards,Razer,13621.05,3,GCash,Pasig,5,true
+4,9/15/2025,Merilee Searsby,Keyboards,Keychron,63593.58,5,GCash,Manila,4,true
+5,2/18/2025,Hewie Rochford,Mice,NZXT,49563.01,3,Credit Card,Manila,3,false
+6,9/30/2025,Shellie Teck,Keyboards,Lian Li,40887.87,5,Credit Card,Quezon City,1,true
+7,6/29/2025,Ashlee Caddy,Mice,Gigabyte,18410.98,4,Cash,Taguig,2,false
+8,1/4/2025,Andrei Bartlosz,Monitors,NZXT,42012.27,4,Cash,Taguig,1,true
+9,4/10/2025,Peyton Glenister,Motherboards,Lian Li,62534.82,4,Credit Card,Taguig,4,true
+10,7/24/2025,Damiano Leuty,Motherboards,Zotac,81377.85,4,Maya,Cebu City,4,true
+11,1/22/2025,Lorry Measor,Monitors,Lian Li,86209.29,4,GCash,Davao City,3,false
+12,12/20/2025,Donovan Thompson,PC Cases,NZXT,81120.76,3,Cash,Mandaluyong,4,false
+13,3/14/2025,Perry O'Corren,PC Cases,MSI,70032.9,4,Cash,Pasig,2,true
+14,9/6/2025,Abbey Danet,RAM,Seasonic,17160.17,4,Credit Card,Taguig,2,false
+15,12/1/2025,Lucias Osboldstone,GPUs,AMD,50618.33,3,Cash,Pasig,2,true
+16,9/22/2025,Gerrard Filippucci,Keyboards,AMD,42444.22,5,Maya,Manila,2,false
+17,3/13/2025,Pennie Hamnett,GPUs,Corsair,87216.25,5,Cash,Quezon City,4,false
+18,4/25/2025,Maximilien Freebury,Power Supplies,MSI,88435.0,5,GCash,Davao City,2,true
+19,1/3/2025,Jedidiah Beckenham,Processors,MSI,22429.45,3,Maya,Davao City,5,true
+20,5/29/2025,Nannette Roberson,Processors,Gigabyte,73340.73,4,GCash,Taguig,3,false
+21,8/25/2025,Aron Abbay,GPUs,Asus,42431.95,5,Maya,Cebu City,4,false
+22,3/29/2025,Nikaniki Portigall,PC Cases,Zotac,57128.2,5,Debit Card,Davao City,2,false
+23,1/17/2025,Katti Simcoe,Motherboards,Zotac,73525.96,5,Debit Card,Pasig,2,false
+24,10/28/2025,Bradly Farden,GPUs,LG,90602.78,4,Maya,Quezon City,2,false
+25,1/6/2025,Antonino Ingrem,GPUs,Gigabyte,61958.77,3,Debit Card,Mandaluyong,2,false
+26,9/30/2025,Koralle Petrello,Keyboards,NZXT,5372.52,5,GCash,Cebu City,3,false
+27,7/12/2025,Tessi Conduit,Processors,AMD,99607.65,3,Cash,Manila,3,false
+28,3/14/2025,Catriona Cowins,Processors,Samsung,16476.87,4,Maya,Quezon City,3,false
+29,3/17/2025,Manya Lemon,Mice,Logitech,33010.14,3,Debit Card,Bacoor,3,true
+30,9/25/2025,Dud Ellin,GPUs,Logitech,39128.29,4,Cash,Taguig,1,true
+31,6/20/2025,Ginnie Suttell,PC Cases,LG,56181.33,3,Debit Card,Mandaluyong,1,false
+32,8/7/2025,Leupold Foister,Power Supplies,Corsair,18439.86,3,Credit Card,Cebu City,2,false
+33,1/8/2025,Ivar Assinder,Processors,Corsair,58973.6,5,Credit Card,Cebu City,1,true
+34,5/30/2025,Freda Blampey,Mice,G.Skill,17135.77,5,Credit Card,Makati,1,false
+35,6/6/2025,Simeon Esterbrook,Keyboards,Lian Li,60858.35,4,Credit Card,Pasig,5,true
+36,4/15/2025,Debby Moughtin,Cooling Systems,Gigabyte,99098.81,5,Debit Card,Bacoor,5,true
+37,4/6/2025,Court Herculeson,Motherboards,Seasonic,85020.67,5,Debit Card,Davao City,1,true
+38,9/11/2025,Alastair Inwood,RAM,Corsair,56353.59,4,Maya,Bacoor,3,false
+39,1/31/2025,Dur Staff,GPUs,MSI,67879.29,5,Cash,Pasig,3,true
+40,9/25/2025,Sherri Kellett,Power Supplies,G.Skill,91298.47,3,Cash,Davao City,5,false
+41,9/27/2025,Arnoldo Obert,GPUs,Asus,10180.24,3,Cash,Taguig,5,true
+42,4/24/2025,Otho Selvey,RAM,Logitech,7709.48,5,Maya,Makati,3,false
+43,11/18/2025,Analiese Bufton,Motherboards,Zotac,68621.77,4,Maya,Cebu City,1,false
+44,8/9/2025,Price Kerans,Cooling Systems,Keychron,55277.81,5,Credit Card,Bacoor,5,false
+45,10/9/2025,Marnie Moneypenny,Power Supplies,Keychron,35628.12,5,GCash,Manila,4,true
+46,9/5/2025,Waneta Davenall,Power Supplies,Lian Li,35028.64,4,Cash,Pasig,4,false
+47,8/20/2025,Neysa Aubrey,GPUs,Samsung,67898.72,4,Credit Card,Bacoor,4,true
+48,1/31/2025,Ernestus Ruckert,Power Supplies,Samsung,58623.41,4,Maya,Quezon City,5,true
+49,4/8/2025,Rolph Gorce,Motherboards,Corsair,4074.93,4,Cash,Cebu City,4,true
+50,6/22/2025,Janeen Mac Giolla Pheadair,Monitors,Lian Li,99699.8,3,GCash,Bacoor,5,false
+51,1/29/2025,Syman Tichelaar,PC Cases,Keychron,54638.89,5,Maya,Mandaluyong,5,true
+52,2/14/2025,Vidovik Tod,Cooling Systems,NZXT,53994.28,4,Cash,Manila,3,false
+53,3/3/2025,Payton Aldus,Power Supplies,Asus,99750.86,4,Credit Card,Bacoor,1,false
+54,6/28/2025,Bethanne Fessler,Keyboards,Logitech,88148.15,4,GCash,Cebu City,2,false
+55,1/26/2025,Frasquito Piens,Keyboards,Logitech,84200.2,5,Cash,Quezon City,3,false
+56,8/31/2025,Paolo Walsh,Processors,Lian Li,71009.57,3,Maya,Bacoor,2,true
+57,11/21/2025,Luigi Leeburn,Monitors,G.Skill,85247.5,3,GCash,Taguig,3,false
+58,1/31/2025,Bordy Smallpiece,Power Supplies,Seasonic,28212.31,5,Cash,Cebu City,2,false
+59,12/7/2025,Myrtle Matzaitis,Keyboards,Asus,62583.04,5,Credit Card,Taguig,3,true
+60,8/16/2025,Archy Reubens,Mice,Intel,96844.78,5,Maya,Davao City,5,true
+61,9/6/2025,Pattie Ledstone,RAM,Corsair,25904.68,4,Cash,Manila,5,true
+62,10/26/2025,Portia Breese,Motherboards,Keychron,85593.78,4,Maya,Bacoor,4,true
+63,4/25/2025,Carlotta Gillebert,Keyboards,MSI,53596.67,3,Cash,Makati,5,true
+64,1/5/2025,Arney Skitteral,PC Cases,Intel,33472.09,5,Cash,Makati,4,true
+65,3/30/2025,Novelia Glasson,Motherboards,LG,36748.35,4,Maya,Bacoor,3,true
+66,6/21/2025,Zita Pratt,Power Supplies,Zotac,73558.37,3,GCash,Taguig,5,false
+67,9/19/2025,Blondy Normansell,Mice,Corsair,40279.9,4,Cash,Davao City,2,false
+68,9/27/2025,Duff Lowerson,PC Cases,Lian Li,31187.74,5,Debit Card,Quezon City,3,false
+69,12/22/2025,Thor Frood,Motherboards,AMD,83167.4,5,Cash,Quezon City,2,false
+70,11/30/2025,Ludwig Jillings,Power Supplies,AMD,95440.95,4,Cash,Makati,3,true
+71,8/21/2025,Jonathon Drysdell,PC Cases,Asus,9069.97,5,Credit Card,Taguig,4,true
+72,3/27/2025,Jone Brundrett,Mice,Lian Li,82195.84,3,Credit Card,Bacoor,2,false
+73,12/28/2025,Lela Gorelli,Motherboards,Keychron,44026.06,3,Credit Card,Taguig,4,false
+74,1/15/2025,Theobald McPartling,Processors,Asus,75039.84,3,Cash,Cebu City,1,false
+75,4/16/2025,Westleigh Toseland,Processors,Asus,19234.65,5,Maya,Mandaluyong,2,true
+76,12/10/2025,Burl Glencros,RAM,MSI,7588.21,3,Credit Card,Pasig,1,false
+77,12/3/2025,Cherise Bertie,GPUs,NZXT,79924.99,3,GCash,Cebu City,4,false
+78,8/27/2025,Bryant Conaghy,Power Supplies,LG,46409.9,3,Credit Card,Quezon City,1,true
+79,11/27/2025,Mateo Meere,Mice,Lian Li,27745.74,4,Maya,Quezon City,4,false
+80,3/21/2025,Duff Savile,Power Supplies,Cooler Master,12296.34,4,Debit Card,Taguig,5,true
+81,2/16/2025,Adlai Baus,Cooling Systems,Asus,39796.25,5,Credit Card,Quezon City,3,true
+82,6/16/2025,Abie Keough,RAM,MSI,85169.87,5,Cash,Cebu City,2,false
+83,8/16/2025,Jerome Giotto,RAM,Zotac,43678.53,3,Cash,Cebu City,5,true
+84,6/17/2025,Web Moneypenny,RAM,Corsair,14361.93,3,Debit Card,Quezon City,2,true
+85,1/15/2025,Dasi Viggars,PC Cases,Zotac,3686.44,4,Credit Card,Davao City,3,false
+86,9/21/2025,Freeland Slorach,Cooling Systems,Lian Li,62722.82,5,GCash,Cebu City,2,false
+87,1/1/2025,Irwin Shuttlewood,Mice,Samsung,99759.13,3,Credit Card,Taguig,5,true
+88,9/6/2025,Ruby Rassmann,Mice,Gigabyte,86505.79,5,Maya,Manila,1,false
+89,7/9/2025,Marj Pegg,Power Supplies,NZXT,20269.28,5,Cash,Cebu City,2,false
+90,8/15/2025,Dillie Ogilvy,GPUs,MSI,32463.32,3,Credit Card,Davao City,1,false
+91,4/25/2025,Shadow Lawrinson,Cooling Systems,G.Skill,15305.83,5,Cash,Makati,4,true
+92,9/28/2025,Roz Hixson,Cooling Systems,Razer,10354.49,5,GCash,Cebu City,5,true
+93,5/23/2025,Camala Cockren,Processors,Samsung,21689.33,4,Maya,Pasig,1,false
+94,5/21/2025,Theda Yosevitz,Monitors,Samsung,86888.24,3,GCash,Makati,5,false
+95,7/1/2025,Yelena Morsom,RAM,Zotac,3457.7,3,Credit Card,Manila,5,false
+96,8/16/2025,Ryan Trawin,PC Cases,Asus,97686.85,3,Maya,Mandaluyong,1,false
+97,6/28/2025,Pennie Doughartie,Power Supplies,Corsair,26906.26,5,Credit Card,Quezon City,1,true
+98,2/24/2025,Horatio Cambridge,Mice,Asus,29399.3,4,GCash,Quezon City,1,false
+99,11/1/2025,Annissa Sinkin,GPUs,Razer,88190.71,4,Maya,Manila,3,false
+100,11/28/2025,Karlotte Gaither,Motherboards,Razer,26227.67,4,Cash,Cebu City,3,true
+101,6/5/2025,Phelia Manntschke,RAM,MSI,40213.52,4,Debit Card,Mandaluyong,3,true
+102,1/28/2025,Cordie Adaway,Motherboards,Keychron,47564.6,3,Credit Card,Pasig,4,true
+103,10/22/2025,Meggie Willmore,Monitors,Samsung,61199.81,3,Maya,Taguig,4,true
+104,7/5/2025,Rorie Lippitt,Processors,NZXT,40753.69,5,Maya,Makati,4,true
+105,10/24/2025,Yovonnda Deyes,RAM,Intel,16339.26,5,Cash,Cebu City,4,true
+106,2/4/2025,Tabitha Boustred,Processors,Seasonic,5644.7,4,GCash,Davao City,3,false
+107,6/9/2025,Glennie Faulo,Monitors,Gigabyte,3335.09,4,Debit Card,Taguig,3,false
+108,10/27/2025,Othilia Pierucci,PC Cases,Razer,46944.1,4,GCash,Makati,2,true
+109,10/10/2025,Britney Eccleshare,Power Supplies,Samsung,28052.93,4,Cash,Davao City,3,true
+110,12/15/2025,Jamill Rallinshaw,Motherboards,LG,27805.24,5,GCash,Cebu City,4,false
+111,11/4/2025,Glen Keeffe,Monitors,LG,86088.74,5,Credit Card,Cebu City,1,true
+112,2/22/2025,Nonah Sparrow,Mice,Zotac,9193.11,5,Maya,Makati,5,false
+113,3/31/2025,Guilbert Vasyunichev,Processors,LG,75558.6,5,Cash,Mandaluyong,5,false
+114,6/7/2025,Tresa Fagge,RAM,NZXT,75640.49,4,Debit Card,Pasig,3,true
+115,9/24/2025,Artemis Drever,Keyboards,Lian Li,33814.52,4,Credit Card,Davao City,1,false
+116,11/25/2025,Beniamino Humbell,RAM,Intel,89874.56,3,Cash,Manila,1,false
+117,9/4/2025,Gloria Zollner,Cooling Systems,Seasonic,52284.57,4,Debit Card,Taguig,2,false
+118,1/5/2025,Sibylle Crampsy,PC Cases,G.Skill,37665.37,4,Cash,Cebu City,1,true
+119,3/28/2025,Roxane Murkitt,Monitors,G.Skill,21122.97,4,Debit Card,Pasig,3,false
+120,10/13/2025,Lenore Tiddeman,GPUs,Samsung,90489.42,3,Maya,Bacoor,2,true
+121,6/27/2025,Alain Begg,Keyboards,MSI,6849.07,3,Debit Card,Cebu City,1,true
+122,10/14/2025,Darnell O'Donoghue,Power Supplies,Razer,43479.38,5,Maya,Cebu City,4,false
+123,10/8/2025,Vida Slay,Motherboards,Logitech,2541.77,3,Credit Card,Makati,2,true
+124,10/22/2025,Berk Matityahu,Mice,AMD,70237.78,4,Credit Card,Bacoor,1,true
+125,1/16/2025,Wilburt Peartree,Power Supplies,LG,98680.52,3,Maya,Pasig,4,true
+126,5/4/2025,Moises Ewles,RAM,AMD,24345.17,3,GCash,Quezon City,3,true
+127,7/14/2025,Maryann Marsie,GPUs,Samsung,52868.48,4,GCash,Mandaluyong,5,true
+128,3/2/2025,Robbi Feldmus,Power Supplies,Corsair,12869.74,4,Cash,Pasig,3,true
+129,6/26/2025,Nessi Oulett,Motherboards,LG,82579.15,4,Credit Card,Manila,1,false
+130,11/16/2025,Hyacintha Crunkhurn,RAM,MSI,21418.1,5,Cash,Bacoor,1,true
+131,2/25/2025,Eldridge Bayles,Power Supplies,Seasonic,5709.71,4,Credit Card,Mandaluyong,5,false
+132,2/5/2025,Babara Halbeard,Motherboards,AMD,15771.98,5,Debit Card,Manila,5,false
+133,4/16/2025,Tybi Onions,GPUs,Logitech,28494.9,3,GCash,Mandaluyong,2,true
+134,2/22/2025,Lenard Swaysland,Cooling Systems,Razer,545.83,4,Debit Card,Davao City,3,true
+135,9/4/2025,Shelia Twiggs,Mice,Logitech,11328.22,5,GCash,Mandaluyong,4,true
+136,8/30/2025,Alfredo Damp,Power Supplies,Gigabyte,58479.75,3,GCash,Makati,4,true
+137,2/8/2025,Helyn Casbon,Power Supplies,Keychron,93551.26,4,Cash,Davao City,5,true
+138,1/13/2025,Anabel Boughton,Keyboards,Samsung,66517.04,3,Debit Card,Quezon City,4,false
+139,9/20/2025,Elora Heighway,PC Cases,Lian Li,77734.25,5,Cash,Cebu City,4,true
+140,8/21/2025,Giralda Guise,Motherboards,G.Skill,38777.21,5,Credit Card,Pasig,3,true
+141,9/2/2025,Cyndie Woodrup,Keyboards,Samsung,75506.62,3,Debit Card,Makati,5,true
+142,3/19/2025,Robinette Tabbernor,RAM,Logitech,34612.45,3,Maya,Pasig,2,false
+143,10/22/2025,Myrtice Warland,Keyboards,Asus,50409.19,5,GCash,Mandaluyong,3,false
+144,5/20/2025,Fredericka Barford,Monitors,Gigabyte,66058.37,4,Credit Card,Mandaluyong,1,false
+145,3/24/2025,Teodoro Fowlestone,Keyboards,NZXT,59301.62,3,Debit Card,Cebu City,2,true
+146,4/12/2025,Vincenz McGonnell,Monitors,Seasonic,51426.66,3,Debit Card,Manila,3,true
+147,12/1/2025,Teodora Del Dello,Cooling Systems,Gigabyte,59712.33,4,Cash,Makati,3,true
+148,8/13/2025,Maia Lenden,Power Supplies,Samsung,26380.47,4,Maya,Davao City,1,true
+149,9/20/2025,Tonya Hardie,Motherboards,Zotac,37255.2,4,Debit Card,Bacoor,1,true
+150,2/2/2025,Raeann Juorio,Processors,Cooler Master,8973.64,4,Cash,Quezon City,1,false
+151,10/7/2025,Trixy Victoria,Keyboards,Zotac,99787.2,4,Debit Card,Cebu City,2,false
+152,5/19/2025,Rasia Hazzard,Keyboards,Samsung,11228.6,3,Cash,Bacoor,4,false
+153,3/6/2025,Vivianna Di Claudio,RAM,Zotac,80447.28,3,Cash,Mandaluyong,3,true
+154,10/3/2025,Adriane Casotti,Monitors,LG,99289.13,5,GCash,Mandaluyong,3,true
+155,8/17/2025,Matilda Warrender,GPUs,Seasonic,74034.46,4,Maya,Mandaluyong,3,false
+156,11/16/2025,Marillin Ferrari,Cooling Systems,Seasonic,94669.39,5,Debit Card,Cebu City,2,false
+157,12/27/2025,Tadio Huskisson,Mice,Keychron,13659.79,5,Cash,Cebu City,3,true
+158,3/10/2025,Allyn Capstake,Monitors,LG,21137.69,5,Cash,Taguig,2,false
+159,5/19/2025,Analiese Vasyutichev,Motherboards,Intel,9532.64,4,Maya,Pasig,2,false
+160,12/16/2025,Johnath Croson,RAM,NZXT,80264.59,3,Cash,Makati,3,true
+161,3/13/2025,Blayne Ogglebie,Power Supplies,Logitech,82582.27,3,Maya,Manila,1,true
+162,3/7/2025,Penelope Kinnon,Keyboards,Intel,55033.98,3,Maya,Pasig,4,false
+163,11/15/2025,Tiebold Probey,Mice,Intel,14257.91,3,Credit Card,Cebu City,3,true
+164,12/16/2025,Kerstin Simons,RAM,NZXT,11646.8,4,Maya,Mandaluyong,1,true
+165,4/5/2025,Inger Antonomolii,RAM,Corsair,34681.38,4,Credit Card,Taguig,2,true
+166,9/19/2025,Andria Tordiffe,Mice,G.Skill,42326.37,4,Maya,Mandaluyong,2,true
+167,3/16/2025,Shelli Giacubbo,Monitors,NZXT,38551.0,3,Maya,Bacoor,1,true
+168,7/14/2025,Jareb Marven,Processors,Samsung,51056.9,4,Cash,Davao City,1,true
+169,8/30/2025,Wilden Dmtrovic,GPUs,NZXT,85568.21,4,Debit Card,Taguig,1,true
+170,11/1/2025,Cariotta Wilshire,Motherboards,Intel,19797.64,5,Credit Card,Bacoor,5,false
+171,2/1/2025,Derrek Mossop,RAM,MSI,55326.73,4,GCash,Davao City,1,false
+172,2/26/2025,Jackson Higgonet,GPUs,Zotac,60832.86,4,GCash,Manila,5,false
+173,7/27/2025,Cammy Spurden,Processors,G.Skill,98164.9,5,Credit Card,Makati,5,true
+174,12/15/2025,Valene Giannassi,Processors,Intel,41397.96,4,Cash,Taguig,4,true
+175,12/7/2025,Isabeau Cookman,Processors,Intel,23294.17,5,Maya,Makati,4,false
+176,4/29/2025,Hilary Edmenson,GPUs,Seasonic,25744.06,4,GCash,Pasig,3,true
+177,10/22/2025,Neysa Brangan,GPUs,Seasonic,78571.07,4,Credit Card,Makati,5,false
+178,2/3/2025,Starlin Snawdon,Power Supplies,Seasonic,8116.72,5,GCash,Davao City,1,true
+179,6/19/2025,Nessa Farfull,Cooling Systems,Seasonic,73514.12,3,Maya,Mandaluyong,2,true
+180,4/1/2025,Ardeen Babin,RAM,Seasonic,73184.74,5,Maya,Makati,1,true
+181,11/27/2025,Sabrina Rosenschein,Cooling Systems,AMD,10448.62,3,GCash,Manila,5,true
+182,9/24/2025,Birgit Fulton,Mice,Logitech,26164.46,5,GCash,Quezon City,2,true
+183,12/13/2025,Dukie Giacomuzzi,Mice,Logitech,1260.0,5,Maya,Cebu City,3,true
+184,5/25/2025,Madonna Harfoot,Monitors,Razer,1246.59,5,Debit Card,Davao City,5,false
+185,5/9/2025,Amitie Suffe,Keyboards,G.Skill,43173.99,4,Credit Card,Davao City,1,false
+186,8/15/2025,Merola Garnsey,Motherboards,Lian Li,44007.03,5,Maya,Pasig,5,true
+187,12/1/2025,Allard Rope,RAM,Cooler Master,35075.35,4,Debit Card,Davao City,3,true
+188,10/13/2025,Estelle Baudins,Processors,LG,22835.62,5,Maya,Davao City,1,true
+189,3/28/2025,Caryl Attwool,Motherboards,Razer,22229.9,5,Credit Card,Cebu City,5,false
+190,9/29/2025,Joaquin Zanuciolii,Keyboards,Samsung,87702.08,5,Cash,Pasig,2,true
+191,7/2/2025,Gabriele Schooling,Mice,NZXT,44248.93,5,Maya,Cebu City,1,true
+192,4/11/2025,Gabriellia Bax,RAM,Asus,15222.01,4,Cash,Makati,4,true
+193,12/26/2025,Thurstan Burnage,Mice,Gigabyte,55029.04,5,GCash,Mandaluyong,3,false
+194,11/20/2025,Marylee Bastie,Cooling Systems,Seasonic,58652.02,4,Cash,Davao City,4,false
+195,8/31/2025,Morissa Dwelly,GPUs,Intel,80170.25,5,Maya,Mandaluyong,5,false
+196,6/1/2025,Alford Van Niekerk,GPUs,Zotac,81722.6,3,Cash,Pasig,5,false
+197,5/31/2025,Claire Woodroof,RAM,Logitech,89954.45,4,Cash,Bacoor,2,false
+198,2/16/2025,Constantine Sainsbury,Motherboards,Keychron,33690.0,5,Maya,Cebu City,5,false
+199,1/29/2025,Gilberto McGinly,Keyboards,Logitech,14983.22,3,GCash,Cebu City,3,true
+200,6/25/2025,Hersch Rudgard,Motherboards,Intel,65648.28,5,Debit Card,Makati,5,false
+201,9/2/2025,Minnie Melsom,RAM,Zotac,77250.31,4,Cash,Quezon City,3,false
+202,6/14/2025,Jordan Durand,PC Cases,Keychron,73397.9,4,Credit Card,Pasig,5,true
+203,7/16/2025,Leif Vittet,Mice,AMD,15569.08,4,GCash,Bacoor,2,false
+204,12/9/2025,Ignatius Gorner,PC Cases,Corsair,50911.72,5,GCash,Bacoor,1,false
+205,3/15/2025,Darla Janaszkiewicz,Motherboards,Gigabyte,41490.67,3,Maya,Pasig,4,false
+206,7/8/2025,Garrott Dulany,Keyboards,MSI,16169.75,4,Credit Card,Makati,2,false
+207,6/18/2025,Cullen Donaho,Power Supplies,Keychron,33056.03,5,Debit Card,Makati,4,false
+208,1/20/2025,Kaitlyn Robillard,Motherboards,Gigabyte,3538.49,5,Credit Card,Davao City,5,false
+209,7/21/2025,Jodie Gallichiccio,Mice,Razer,4334.61,4,Debit Card,Makati,1,true
+210,6/9/2025,Beau Camilletti,PC Cases,Lian Li,74355.36,4,Credit Card,Quezon City,3,false
+211,12/11/2025,Ransom Bausor,Mice,Asus,15264.95,5,Maya,Makati,3,false
+212,12/5/2025,Roberta Cornillot,PC Cases,NZXT,4317.51,5,GCash,Makati,2,false
+213,1/15/2025,Juan Domelaw,PC Cases,Keychron,49402.64,3,Cash,Davao City,2,true
+214,3/14/2025,Errol Mabbs,Power Supplies,Cooler Master,80148.96,3,Debit Card,Manila,3,false
+215,10/18/2025,Lora Lawie,Monitors,Corsair,85513.55,5,Credit Card,Pasig,3,true
+216,12/18/2025,Melisande Cowtherd,Processors,Lian Li,51533.01,5,GCash,Davao City,4,true
+217,9/1/2025,Giralda Lowten,Motherboards,Gigabyte,46963.25,5,GCash,Quezon City,2,true
+218,5/1/2025,Biddy Matuszak,Power Supplies,Logitech,97792.74,3,Maya,Pasig,3,false
+219,9/7/2025,Leanna Dowbekin,PC Cases,Keychron,78537.49,3,Maya,Mandaluyong,3,false
+220,10/1/2025,Delmar Halpin,Keyboards,NZXT,33791.63,3,Maya,Pasig,5,false
+221,4/13/2025,Taddeusz Dalgardno,Mice,Intel,1307.0,4,GCash,Manila,2,true
+222,3/31/2025,Josee Kleinmintz,Keyboards,NZXT,97364.6,5,Credit Card,Quezon City,1,false
+223,7/9/2025,Kendall Boyet,RAM,G.Skill,37752.85,5,GCash,Quezon City,4,false
+224,2/21/2025,Vivi Fuggles,Keyboards,G.Skill,15641.8,5,GCash,Mandaluyong,5,false
+225,5/10/2025,Paige Meneer,Cooling Systems,AMD,36725.56,3,Debit Card,Davao City,2,false
+226,4/21/2025,Matilde Foyster,Motherboards,Corsair,64173.19,3,Credit Card,Mandaluyong,1,false
+227,8/6/2025,Bud Gater,Keyboards,Intel,99561.25,5,Maya,Taguig,3,false
+228,7/27/2025,Bernardina Cutriss,Mice,Intel,67328.82,4,Cash,Pasig,2,true
+229,4/13/2025,Elmira Bristo,Processors,Intel,62915.92,5,Debit Card,Bacoor,1,true
+230,1/27/2025,Stephana Canas,Keyboards,Keychron,39462.07,5,Maya,Pasig,2,true
+231,4/20/2025,Nanete Bullen,PC Cases,Samsung,35399.93,4,GCash,Davao City,5,false
+232,12/12/2025,Leda Wedmore,Monitors,Keychron,68493.11,4,Maya,Pasig,2,false
+233,7/15/2025,Nicole Snare,Keyboards,AMD,59726.01,4,Maya,Cebu City,5,false
+234,6/17/2025,Conny Bagenal,Power Supplies,LG,86471.73,4,Debit Card,Mandaluyong,1,true
+235,12/18/2025,Inessa Guslon,Monitors,Samsung,33324.82,3,Credit Card,Mandaluyong,3,true
+236,3/6/2025,Montgomery Pethybridge,Power Supplies,AMD,90717.41,3,GCash,Pasig,5,true
+237,10/2/2025,Chic Castillon,PC Cases,G.Skill,80716.38,3,GCash,Bacoor,4,true
+238,1/31/2025,Leland Stratton,Processors,Samsung,25661.58,5,Maya,Manila,5,false
+239,6/26/2025,Lester Griniov,Processors,G.Skill,27481.74,4,Maya,Davao City,5,false
+240,3/11/2025,Drake Regan,Keyboards,NZXT,24085.57,4,GCash,Manila,5,false
+241,1/24/2025,Romeo O'Flaverty,GPUs,Cooler Master,56680.0,3,GCash,Makati,1,false
+242,7/29/2025,Enid Petroselli,PC Cases,Intel,98598.03,3,Maya,Makati,3,false
+243,2/17/2025,Mathew Francombe,RAM,Razer,57604.0,3,Cash,Quezon City,1,true
+244,3/8/2025,Bevan Infante,Processors,Seasonic,60551.71,4,Debit Card,Bacoor,4,true
+245,1/1/2025,Bernarr Cullon,Monitors,AMD,3570.6,4,Credit Card,Davao City,5,false
+246,6/14/2025,Lorene Pygott,Cooling Systems,AMD,79621.43,4,GCash,Cebu City,5,false
+247,8/20/2025,Caria Charlon,RAM,Lian Li,19986.67,5,Cash,Davao City,4,true
+248,9/16/2025,Carolee Hillock,Mice,Keychron,64990.21,4,Credit Card,Mandaluyong,2,false
+249,12/8/2025,Hesther Pauel,GPUs,Corsair,71434.84,3,GCash,Mandaluyong,1,true
+250,7/22/2025,Sascha Smurthwaite,RAM,Razer,24217.4,4,GCash,Makati,2,false
+251,4/21/2025,Galen Tripney,Motherboards,MSI,97492.96,5,Debit Card,Pasig,1,true
+252,3/15/2025,Lowe Bauer,GPUs,Zotac,77427.2,3,GCash,Quezon City,4,true
+253,5/8/2025,Vivyan Brusin,Mice,G.Skill,94336.49,3,Cash,Quezon City,2,true
+254,6/1/2025,Goldarina Manneville,Motherboards,Zotac,39751.88,3,Cash,Quezon City,3,true
+255,11/30/2025,Tess Winfindale,Mice,Razer,11450.09,3,Maya,Taguig,2,true
+256,3/7/2025,Bryanty Kunisch,Cooling Systems,Intel,1161.92,4,Cash,Manila,1,true
+257,1/6/2025,Elvis Jaycocks,Power Supplies,MSI,90124.6,3,Cash,Davao City,3,true
+258,10/15/2025,Ebenezer Feechum,Motherboards,Cooler Master,87869.47,3,GCash,Makati,3,true
+259,2/10/2025,Derril Shrimpton,Monitors,Logitech,8679.88,5,Credit Card,Cebu City,4,false
+260,1/26/2025,Ivar O'Scanlan,Power Supplies,NZXT,18247.69,3,Credit Card,Taguig,3,false
+261,5/7/2025,Anderea Speed,Mice,Keychron,39996.01,3,Debit Card,Mandaluyong,3,true
+262,5/14/2025,Rutherford Opy,RAM,NZXT,57655.7,5,Cash,Makati,1,true
+263,12/30/2025,Fairfax Metson,Monitors,NZXT,77435.71,4,Debit Card,Pasig,5,true
+264,10/9/2025,Bearnard Stearnes,Processors,LG,2795.07,5,Cash,Quezon City,4,false
+265,12/7/2025,Christy Worledge,PC Cases,MSI,21602.41,5,GCash,Cebu City,4,true
+266,11/4/2025,Philipa Calway,Mice,Samsung,55576.49,4,GCash,Quezon City,5,true
+267,2/7/2025,Ferguson Borghese,Power Supplies,G.Skill,83815.62,5,Cash,Quezon City,5,false
+268,8/7/2025,Bethanne Boam,Power Supplies,Logitech,91464.23,3,Cash,Taguig,3,true
+269,9/28/2025,Korry Whybrow,Monitors,Asus,60146.74,3,GCash,Cebu City,4,false
+270,3/24/2025,Geralda Cardello,PC Cases,Razer,9046.65,4,Credit Card,Taguig,5,true
+271,5/29/2025,Henriette Lilleycrop,Motherboards,Seasonic,93177.46,4,GCash,Bacoor,1,true
+272,3/1/2025,Arlinda McFaul,PC Cases,AMD,38181.6,3,Maya,Makati,4,true
+273,11/3/2025,Kirsti Buckston,GPUs,AMD,38380.65,5,Maya,Manila,3,false
+274,12/27/2025,Ignacius Minton,Cooling Systems,Seasonic,4305.91,5,GCash,Mandaluyong,5,false
+275,8/12/2025,Pren Lace,Cooling Systems,LG,59410.73,3,GCash,Davao City,4,true
+276,3/23/2025,Jarad Singyard,Power Supplies,Lian Li,55226.22,3,Maya,Pasig,1,false
+277,4/17/2025,Coraline Wogdon,Keyboards,Razer,14741.25,5,Maya,Cebu City,1,true
+278,4/8/2025,Danny Schellig,Mice,Seasonic,24447.85,5,Maya,Davao City,4,true
+279,8/16/2025,Alexia Johananov,RAM,AMD,22186.37,5,Maya,Taguig,5,false
+280,2/12/2025,Dulsea Summerton,PC Cases,MSI,17252.68,5,Cash,Pasig,5,false
+281,3/2/2025,Kenon Georgeau,Cooling Systems,Lian Li,55171.75,3,Debit Card,Cebu City,2,true
+282,11/5/2025,Xenia Dulieu,RAM,MSI,49381.79,4,GCash,Manila,3,false
+283,5/27/2025,Eugenius Roussel,Monitors,LG,60144.43,5,Cash,Manila,2,false
+284,6/21/2025,Tammi Artingstall,Keyboards,Razer,45138.64,5,GCash,Makati,2,false
+285,3/20/2025,Thurstan Rimington,RAM,MSI,57201.26,3,Cash,Pasig,5,true
+286,2/15/2025,Oates Winn,RAM,Lian Li,51546.16,3,GCash,Makati,3,true
+287,4/3/2025,Flo Lutsch,Mice,Intel,96794.56,3,GCash,Taguig,4,true
+288,9/10/2025,Blinnie Emsley,RAM,Corsair,76399.04,5,Debit Card,Pasig,4,true
+289,7/28/2025,Brook Siddell,RAM,Corsair,66886.53,5,GCash,Manila,4,true
+290,4/15/2025,Maurise Tinto,PC Cases,Intel,43202.4,5,Debit Card,Taguig,3,true
+291,4/2/2025,Sophey Marusyak,Mice,Cooler Master,51110.93,3,GCash,Cebu City,5,true
+292,5/22/2025,Belita Wollen,Power Supplies,Lian Li,67015.82,3,Maya,Makati,4,true
+293,5/7/2025,Tate Cloney,Processors,Gigabyte,82859.78,4,Debit Card,Bacoor,2,true
+294,2/12/2025,Fitz Cadany,Monitors,Asus,98981.4,3,GCash,Cebu City,5,false
+295,3/19/2025,Davis Dobbin,GPUs,LG,42271.39,4,Credit Card,Makati,2,false
+296,7/16/2025,Mathian Fawlkes,Motherboards,Razer,42814.87,3,Credit Card,Taguig,1,true
+297,5/31/2025,Martynne Canlin,GPUs,MSI,85866.14,3,Cash,Makati,5,false
+298,12/29/2025,Tailor Pring,Power Supplies,Logitech,44486.99,5,GCash,Cebu City,5,true
+299,6/25/2025,Chicky Westman,RAM,Samsung,55114.82,4,Debit Card,Pasig,5,true
+300,4/29/2025,Melody Missen,RAM,LG,3079.54,3,Cash,Mandaluyong,1,false
+301,3/8/2025,Cheslie Fury,Processors,Logitech,69696.97,3,Debit Card,Mandaluyong,2,false
+302,5/14/2025,Averyl Eagar,PC Cases,LG,18192.24,5,Maya,Davao City,3,false
+303,2/1/2025,Salim Cometson,Motherboards,NZXT,2602.09,4,Cash,Taguig,2,false
+304,11/21/2025,Jobyna Ingolotti,Power Supplies,Cooler Master,38494.8,5,Maya,Davao City,4,true
+305,6/21/2025,Nobe Hingeley,RAM,NZXT,88838.7,3,GCash,Quezon City,2,false
+306,6/9/2025,Nappie Floch,Power Supplies,Logitech,61737.49,5,Credit Card,Davao City,1,true
+307,10/22/2025,Corey Rotte,Motherboards,Gigabyte,93023.55,4,Maya,Davao City,5,true
+308,12/13/2025,Carolyn McCleary,GPUs,Gigabyte,21624.87,3,GCash,Makati,5,false
+309,2/2/2025,Gardner Lithgow,PC Cases,G.Skill,98444.96,5,Debit Card,Cebu City,1,true
+310,6/8/2025,Eb Gorges,GPUs,Keychron,86454.52,4,Cash,Mandaluyong,4,true
+311,8/22/2025,Isaak Braunlein,Motherboards,AMD,20927.68,4,Debit Card,Taguig,5,false
+312,8/27/2025,Nev Dungate,PC Cases,Cooler Master,54910.35,5,Debit Card,Taguig,2,true
+313,7/19/2025,Artemas Greetland,GPUs,Zotac,96440.32,3,Credit Card,Cebu City,1,false
+314,11/29/2025,Alyosha Pasque,GPUs,Gigabyte,77078.45,3,GCash,Davao City,3,true
+315,9/21/2025,Kandace Folks,GPUs,Cooler Master,80661.28,3,GCash,Mandaluyong,4,true
+316,2/27/2025,Tamera Marty,Cooling Systems,Keychron,96127.43,4,Debit Card,Cebu City,5,true
+317,6/26/2025,Manny O'Sherin,Mice,NZXT,91510.7,4,Cash,Mandaluyong,1,true
+318,7/29/2025,Annaliese Coolson,Cooling Systems,Intel,79525.43,4,Cash,Pasig,2,true
+319,11/1/2025,Julissa Lodeke,GPUs,Lian Li,83068.71,5,GCash,Makati,2,true
+320,8/17/2025,Winona Cockshutt,RAM,Lian Li,16678.11,3,Debit Card,Bacoor,4,true
+321,7/18/2025,Ancell Henrichs,Power Supplies,Keychron,10412.61,4,Maya,Cebu City,5,false
+322,1/1/2025,Liesa Cranstoun,Keyboards,LG,34757.15,3,GCash,Taguig,2,false
+323,12/30/2025,Joyous Tomkinson,Monitors,MSI,26971.76,4,Credit Card,Manila,3,false
+324,12/5/2025,Casper Scolding,Monitors,Keychron,27106.63,5,Maya,Davao City,5,false
+325,11/23/2025,Galvin Fumagall,Keyboards,Intel,25802.63,3,GCash,Taguig,2,true
+326,9/1/2025,Nelia Draper,Cooling Systems,Intel,33445.96,3,Debit Card,Bacoor,2,true
+327,10/17/2025,Glad Cowap,GPUs,Logitech,16337.82,3,GCash,Davao City,5,false
+328,12/29/2025,Alexi Bernard,Power Supplies,Samsung,35076.15,5,Cash,Makati,1,false
+329,7/22/2025,Lutero Danilyuk,Motherboards,Seasonic,57381.97,3,Cash,Mandaluyong,1,false
+330,5/21/2025,Iggy Pepperell,Cooling Systems,Asus,66292.89,5,Maya,Mandaluyong,2,false
+331,6/14/2025,Jeanette Knock,Motherboards,G.Skill,44154.79,4,Credit Card,Cebu City,5,true
+332,10/27/2025,Violante Naisey,PC Cases,Gigabyte,10036.98,5,Maya,Taguig,3,false
+333,11/15/2025,Carena Cristofol,RAM,Asus,89790.58,4,Credit Card,Davao City,3,true
+334,2/16/2025,Dudley Persence,Cooling Systems,G.Skill,24337.97,4,Credit Card,Davao City,3,false
+335,12/10/2025,Frazer Ferrini,Processors,Intel,71038.32,5,Debit Card,Manila,1,true
+336,10/14/2025,Vaughan Blanchette,GPUs,MSI,72341.13,3,Cash,Cebu City,1,false
+337,10/24/2025,Leicester Lockless,GPUs,LG,74459.35,4,GCash,Bacoor,1,true
+338,10/14/2025,Dmitri Giddy,GPUs,Samsung,41423.77,4,Maya,Manila,2,true
+339,5/11/2025,Meade Barstock,PC Cases,Cooler Master,9558.77,4,Credit Card,Quezon City,3,true
+340,1/31/2025,Sasha MacAdie,Power Supplies,AMD,76950.82,3,GCash,Cebu City,1,true
+341,6/27/2025,Penrod Elcott,Keyboards,Asus,24492.69,3,GCash,Bacoor,1,true
+342,7/29/2025,Mahmud Pinches,RAM,Gigabyte,87796.18,5,GCash,Quezon City,3,true
+343,7/10/2025,Anderson Imloch,GPUs,NZXT,96776.59,5,Credit Card,Manila,5,true
+344,12/17/2025,Martha Cuphus,Monitors,LG,19242.33,4,Cash,Quezon City,1,true
+345,10/20/2025,Fredia Gathercoal,Cooling Systems,Logitech,39753.82,5,Debit Card,Mandaluyong,3,true
+346,5/8/2025,Sabina Kollach,Processors,NZXT,63369.39,5,Cash,Mandaluyong,2,true
+347,11/8/2025,Devi Pastor,RAM,Intel,47458.91,3,Credit Card,Taguig,5,false
+348,8/16/2025,Gunar Bernier,Cooling Systems,Keychron,7237.66,3,Maya,Bacoor,5,true
+349,9/15/2025,Martina McCoveney,Motherboards,Razer,84703.99,4,GCash,Makati,4,true
+350,4/8/2025,Jobye Seagood,PC Cases,Cooler Master,46895.62,4,Credit Card,Taguig,5,false
+351,9/26/2025,Florie Lynd,Mice,Samsung,1310.39,4,Maya,Mandaluyong,3,false
+352,4/6/2025,Krystalle Windress,GPUs,G.Skill,42623.3,5,Credit Card,Quezon City,2,true
+353,1/6/2025,Lincoln Chittem,Power Supplies,Lian Li,26443.41,5,Credit Card,Manila,4,false
+354,8/5/2025,Neely Keynes,Cooling Systems,Cooler Master,10006.25,5,GCash,Davao City,4,true
+355,6/5/2025,Ciel Cabotto,PC Cases,Corsair,51084.42,5,Maya,Bacoor,5,false
+356,6/22/2025,Barnie Vispo,Cooling Systems,Intel,20557.35,4,GCash,Davao City,5,true
+357,4/28/2025,Gleda Milan,Keyboards,Corsair,42672.27,3,Credit Card,Mandaluyong,3,false
+358,12/17/2025,Dede Burnel,Monitors,G.Skill,38120.12,4,Debit Card,Bacoor,5,true
+359,1/15/2025,Bendite De Ferrari,Mice,Lian Li,74783.62,4,GCash,Davao City,5,false
+360,10/20/2025,Cesar Chretien,GPUs,Asus,76864.91,3,Cash,Cebu City,5,true
+361,4/28/2025,Steward Igo,RAM,Zotac,10357.83,4,Credit Card,Mandaluyong,2,true
+362,1/15/2025,Rina Kellar,Mice,Samsung,84810.52,4,Maya,Quezon City,1,false
+363,10/29/2025,Roxane Patria,PC Cases,NZXT,99336.35,4,Credit Card,Quezon City,1,true
+364,8/10/2025,Pooh Ibert,PC Cases,NZXT,6191.63,3,Credit Card,Bacoor,2,false
+365,6/17/2025,Christan Laherty,RAM,Asus,72047.77,5,Credit Card,Cebu City,5,true
+366,2/18/2025,Christoffer Eles,PC Cases,Seasonic,71544.43,3,Debit Card,Manila,1,false
+367,7/21/2025,Clayton Ruddell,Keyboards,AMD,8326.3,3,GCash,Manila,2,false
+368,11/21/2025,Othelia Scheu,Power Supplies,NZXT,62686.92,3,Credit Card,Manila,4,true
+369,7/19/2025,Travis Jones,Motherboards,Gigabyte,47471.96,3,Credit Card,Mandaluyong,4,false
+370,4/24/2025,Cayla Steers,Motherboards,Razer,94342.06,3,GCash,Davao City,4,false
+371,12/16/2025,Carmina Starford,Monitors,Lian Li,57455.58,3,Credit Card,Mandaluyong,3,true
+372,12/7/2025,Hobey Brodbin,PC Cases,MSI,23349.12,5,GCash,Bacoor,1,false
+373,9/21/2025,Agnes Chitty,RAM,Intel,89158.83,5,Cash,Cebu City,5,true
+374,5/26/2025,Sylas Belch,RAM,Zotac,84515.16,5,GCash,Quezon City,4,false
+375,12/12/2025,Sari Perin,Power Supplies,Intel,60528.22,5,Cash,Bacoor,3,false
+376,11/28/2025,Cassey McCluskey,GPUs,AMD,36717.43,3,Cash,Mandaluyong,3,false
+377,1/23/2025,Pavia Rakes,Mice,Seasonic,50786.28,4,Maya,Bacoor,5,true
+378,11/23/2025,Albert Betteson,Monitors,Cooler Master,16228.31,4,GCash,Mandaluyong,4,false
+379,8/28/2025,Bette-ann Cowmeadow,Power Supplies,Seasonic,48033.34,4,Debit Card,Quezon City,3,true
+380,10/5/2025,Joshuah Warn,Cooling Systems,NZXT,1939.65,3,Debit Card,Quezon City,4,true
+381,11/29/2025,Shem McDuffie,Monitors,Samsung,62320.83,3,Cash,Taguig,4,true
+382,6/27/2025,Berke Tapp,Processors,Cooler Master,11345.74,4,Debit Card,Davao City,4,false
+383,11/19/2025,Oby Cheverell,Motherboards,MSI,25165.0,4,Maya,Quezon City,5,false
+384,9/19/2025,Melvin Ovendon,Monitors,LG,32849.25,5,GCash,Taguig,1,true
+385,2/2/2025,Antonie Yegorev,Processors,Corsair,85493.42,3,Cash,Mandaluyong,1,true
+386,9/1/2025,Delores Byars,Monitors,LG,15383.18,4,Cash,Manila,3,false
+387,11/30/2025,Annemarie Hast,Processors,Samsung,89815.15,5,Credit Card,Quezon City,2,false
+388,1/12/2025,Jordan Surmeir,Monitors,Seasonic,17723.19,5,Credit Card,Bacoor,3,true
+389,1/29/2025,Ardyth Grigoletti,Mice,Seasonic,15904.77,5,Cash,Davao City,3,true
+390,3/14/2025,Florance Coonan,Monitors,Cooler Master,67061.98,4,Maya,Manila,3,false
+391,10/2/2025,Kaleb Westney,PC Cases,NZXT,59014.94,4,Credit Card,Manila,3,false
+392,4/9/2025,Gabriel Rickwood,Cooling Systems,Zotac,70458.34,3,Debit Card,Taguig,2,false
+393,12/14/2025,Benoit Isles,PC Cases,Gigabyte,37228.58,3,Credit Card,Davao City,2,true
+394,8/11/2025,Sabrina Jerrems,PC Cases,Gigabyte,82558.06,5,Cash,Manila,3,true
+395,12/3/2025,Michele Beckenham,Motherboards,Razer,65336.91,5,Credit Card,Pasig,1,true
+396,9/1/2025,Hal Levick,Power Supplies,G.Skill,67984.9,5,Credit Card,Quezon City,1,true
+397,11/13/2025,Dulci Pomfrett,Keyboards,Intel,1754.9,5,GCash,Taguig,4,true
+398,2/4/2025,Neddy Jouhandeau,PC Cases,Corsair,94018.4,4,Debit Card,Bacoor,4,false
+399,12/29/2025,Diandra Shilladay,Processors,Razer,53010.86,3,Cash,Makati,1,false
+400,7/17/2025,Sher Sidnell,RAM,Cooler Master,98847.77,3,GCash,Taguig,1,false
+401,10/24/2025,Elizabeth Dyers,Keyboards,Razer,51418.97,4,Cash,Manila,2,true
+402,5/20/2025,Jess Kondrat,Motherboards,MSI,2027.41,3,Credit Card,Bacoor,2,false
+403,2/11/2025,Cookie Todman,Keyboards,Zotac,76424.88,4,Cash,Mandaluyong,2,false
+404,7/8/2025,Cletis Boichat,Motherboards,Seasonic,50605.69,4,Debit Card,Manila,2,true
+405,9/26/2025,Terrence Massow,GPUs,G.Skill,13150.37,5,Debit Card,Mandaluyong,3,false
+406,7/15/2025,Ban Holcroft,Motherboards,Zotac,15086.56,3,Debit Card,Mandaluyong,4,false
+407,12/12/2025,Anna Waszkiewicz,Power Supplies,Samsung,68668.74,5,Cash,Bacoor,2,true
+408,12/24/2025,Patrizius Colleran,RAM,Gigabyte,58115.14,4,Debit Card,Quezon City,1,true
+409,2/10/2025,Lurleen Eckersall,PC Cases,Corsair,38503.06,4,Maya,Manila,1,false
+410,12/26/2025,Franky De la Harpe,Monitors,Corsair,4219.78,5,GCash,Bacoor,5,false
+411,5/1/2025,Bernelle Palister,Power Supplies,Lian Li,73050.91,5,Cash,Cebu City,2,false
+412,1/19/2025,Meg Glowacki,Mice,LG,28118.31,3,Cash,Cebu City,3,false
+413,8/1/2025,Mohandas Luxton,Monitors,Samsung,58405.82,5,Debit Card,Taguig,1,true
+414,2/15/2025,Darda Mohammed,Motherboards,Logitech,50755.31,5,Cash,Quezon City,3,false
+415,5/5/2025,Alicia Braund,Processors,G.Skill,19427.8,4,Maya,Mandaluyong,1,false
+416,2/26/2025,Arel Copcutt,Cooling Systems,Keychron,47744.81,3,Cash,Makati,3,false
+417,5/16/2025,Sherilyn Gianasi,Power Supplies,G.Skill,83920.16,5,Credit Card,Makati,4,true
+418,1/12/2025,Rozanne Hedden,Mice,Cooler Master,87636.5,3,Debit Card,Pasig,2,true
+419,3/6/2025,Mariya Middlemist,PC Cases,Corsair,88500.99,3,Credit Card,Quezon City,2,false
+420,10/31/2025,Janene Huxton,Mice,Cooler Master,54555.76,5,Debit Card,Davao City,1,false
+421,4/15/2025,Shaylyn Bradford,Processors,Asus,90391.37,3,GCash,Mandaluyong,4,false
+422,7/1/2025,Krystyna Mabbe,Power Supplies,MSI,58523.49,5,GCash,Davao City,5,false
+423,3/24/2025,Vanessa Watkinson,Monitors,G.Skill,22846.89,4,GCash,Cebu City,2,true
+424,5/28/2025,Eran Ferie,Keyboards,Razer,49287.99,5,Cash,Pasig,2,false
+425,1/24/2025,Ariana Hinder,PC Cases,Lian Li,11585.14,5,Credit Card,Makati,2,false
+426,12/24/2025,Catherina Abdie,PC Cases,Asus,66827.81,4,Maya,Pasig,1,true
+427,3/22/2025,Timmie Gunner,Keyboards,AMD,50374.48,5,Maya,Makati,3,false
+428,6/14/2025,Cissy Vanlint,Processors,NZXT,9711.57,5,GCash,Mandaluyong,2,false
+429,10/9/2025,Jacki Kleimt,GPUs,Intel,56057.78,5,Credit Card,Manila,3,false
+430,8/31/2025,Merilee Hinrich,Processors,MSI,82252.78,3,Cash,Makati,1,true
+431,6/11/2025,Jayne Dysert,Processors,Gigabyte,25351.79,3,Debit Card,Quezon City,2,false
+432,2/25/2025,Avis Jasiak,Mice,Lian Li,5689.63,3,GCash,Pasig,2,true
+433,4/24/2025,Pierce Berth,Mice,Intel,22416.37,4,GCash,Bacoor,2,false
+434,6/10/2025,Faustine Glidden,RAM,Lian Li,49144.73,3,Credit Card,Makati,5,false
+435,4/25/2025,Eugenia Goolden,GPUs,MSI,75253.9,3,GCash,Mandaluyong,1,true
+436,11/13/2025,Merv Blacktin,Cooling Systems,NZXT,59619.2,3,GCash,Davao City,4,false
+437,7/8/2025,Janis MacLaig,RAM,Seasonic,41942.43,5,Maya,Manila,4,true
+438,5/21/2025,Anatola Soares,Mice,Keychron,86590.37,4,Maya,Cebu City,1,false
+439,8/10/2025,Aileen Johananov,Motherboards,Gigabyte,71777.91,4,Cash,Manila,1,false
+440,7/8/2025,Tomlin Livingston,Keyboards,G.Skill,55718.91,4,GCash,Manila,2,true
+441,4/1/2025,Etheline Febre,Motherboards,Cooler Master,52404.03,5,Debit Card,Davao City,1,true
+442,4/8/2025,Anstice Beese,Power Supplies,G.Skill,77445.55,4,Debit Card,Taguig,1,false
+443,3/7/2025,Marshal Perot,RAM,NZXT,43231.74,5,Cash,Quezon City,3,true
+444,3/30/2025,Brien MacMickan,RAM,AMD,44834.97,3,Cash,Bacoor,3,false
+445,11/3/2025,Sheila-kathryn Duchenne,RAM,Corsair,57926.29,5,GCash,Makati,5,true
+446,8/9/2025,Sam Elgee,PC Cases,LG,75797.28,5,GCash,Bacoor,3,false
+447,2/10/2025,Hastie Diemer,Power Supplies,Samsung,70862.37,3,Credit Card,Pasig,1,true
+448,5/12/2025,Goldarina Beckerleg,Mice,Seasonic,3301.6,5,GCash,Bacoor,2,false
+449,1/13/2025,Scarlett Order,Motherboards,Seasonic,61923.39,5,Cash,Manila,1,false
+450,5/26/2025,Morty Fass,Monitors,NZXT,36512.1,4,Cash,Davao City,4,true
+451,11/14/2025,Kiah Ambler,Processors,Keychron,32196.52,5,Cash,Davao City,1,true
+452,2/10/2025,Becca Pirozzi,Monitors,AMD,10664.68,5,Debit Card,Manila,4,true
+453,5/24/2025,Ranice Ashling,GPUs,Zotac,70673.41,4,GCash,Mandaluyong,4,false
+454,12/11/2025,Beryl Muspratt,Monitors,AMD,21745.51,3,Debit Card,Quezon City,2,false
+455,9/1/2025,Vyky Loftie,Monitors,Corsair,6682.74,4,Debit Card,Quezon City,1,true
+456,4/4/2025,Arlan Heustace,GPUs,MSI,71137.31,3,Maya,Bacoor,3,true
+457,1/21/2025,Dulcinea Lindenboim,Power Supplies,NZXT,45030.73,4,Credit Card,Manila,1,false
+458,3/4/2025,Shae Yvens,Motherboards,Corsair,50067.85,4,Cash,Quezon City,4,false
+459,5/16/2025,Mike Ruskin,RAM,Seasonic,97625.73,4,Maya,Makati,4,true
+460,2/5/2025,Sofie Longmore,Cooling Systems,NZXT,69844.3,3,Debit Card,Manila,1,true
+461,11/7/2025,Stacee Maseres,PC Cases,Gigabyte,55243.14,3,Credit Card,Pasig,2,false
+462,4/4/2025,Maximilianus Packington,PC Cases,AMD,72264.06,3,Credit Card,Cebu City,4,true
+463,8/2/2025,Bobbe Phelips,Motherboards,Corsair,15524.71,4,Debit Card,Manila,1,false
+464,12/12/2025,Whittaker Arkow,Mice,Lian Li,74706.24,4,Cash,Cebu City,3,true
+465,4/15/2025,Tierney MacKean,Processors,MSI,98881.13,5,Cash,Manila,4,false
+466,6/30/2025,Alexandro Gomery,Mice,Seasonic,17049.67,4,GCash,Bacoor,2,true
+467,1/8/2025,Harley Frankling,Motherboards,Corsair,53663.55,3,Maya,Manila,4,true
+468,9/17/2025,Sheffield Withers,Cooling Systems,Zotac,91961.78,5,GCash,Makati,2,false
+469,11/13/2025,Noel Lawrinson,Processors,Corsair,38457.09,3,GCash,Manila,2,true
+470,9/30/2025,Glad Beardsall,GPUs,Asus,17972.14,5,Maya,Manila,2,false
+471,12/20/2025,Weber Llorente,Mice,AMD,90349.46,3,Maya,Cebu City,3,false
+472,4/14/2025,Freedman Demangeot,PC Cases,LG,36648.24,4,GCash,Taguig,4,true
+473,4/3/2025,Kingston Fairbourne,Mice,Razer,9345.47,3,GCash,Makati,2,false
+474,8/17/2025,Gaynor Dorant,RAM,Seasonic,25534.46,4,Debit Card,Makati,5,true
+475,7/8/2025,Phillip Prandini,Keyboards,Razer,67606.87,3,Debit Card,Manila,4,false
+476,4/2/2025,Cortney Truran,Motherboards,Samsung,19243.29,5,Debit Card,Pasig,2,true
+477,9/20/2025,Caryn McKean,GPUs,Seasonic,49080.5,5,GCash,Mandaluyong,2,true
+478,3/26/2025,Delmor Chong,Cooling Systems,Zotac,21740.61,4,Maya,Makati,3,true
+479,9/2/2025,Niven Arends,Power Supplies,AMD,16130.49,3,Maya,Taguig,1,false
+480,3/2/2025,Shelley Bockler,Motherboards,Samsung,77474.45,3,Cash,Cebu City,3,false
+481,6/13/2025,Hayes Cristofalo,GPUs,Asus,75078.08,5,Maya,Cebu City,2,false
+482,11/17/2025,Cirstoforo Sibary,Monitors,Razer,88480.21,3,Cash,Pasig,4,false
+483,11/4/2025,Joscelin Dawkes,Power Supplies,Corsair,45670.35,3,GCash,Quezon City,1,false
+484,1/28/2025,Roarke Slograve,Keyboards,Razer,7082.51,4,Maya,Pasig,2,true
+485,11/26/2025,Aurelia Morrott,Keyboards,Logitech,87762.42,3,Debit Card,Mandaluyong,5,false
+486,11/22/2025,Emmett Lipmann,RAM,Razer,21798.67,5,Debit Card,Manila,3,false
+487,7/15/2025,Loella Tivnan,RAM,MSI,19021.92,4,Credit Card,Cebu City,4,true
+488,12/22/2025,Sherman Crimpe,PC Cases,Corsair,55120.16,4,Maya,Taguig,5,true
+489,8/14/2025,Yancy Hardi,GPUs,Keychron,98747.6,3,Cash,Pasig,2,true
+490,10/8/2025,Carlina O'Doohaine,Monitors,G.Skill,72955.87,3,GCash,Cebu City,3,false
+491,1/4/2025,Nelia Grainger,GPUs,Seasonic,21529.76,5,Cash,Davao City,2,true
+492,6/27/2025,Aubrey Dimmer,RAM,Seasonic,76812.69,5,Cash,Quezon City,5,false
+493,5/9/2025,Cecilla Andre,Motherboards,Lian Li,95506.3,4,Cash,Quezon City,1,false
+494,8/8/2025,Valentin Paulino,Mice,AMD,23403.96,3,GCash,Taguig,1,true
+495,5/9/2025,Virgina Vittore,Mice,Razer,75720.82,4,Cash,Bacoor,5,true
+496,1/27/2025,Burt Stroulger,Cooling Systems,Razer,33838.74,3,Cash,Pasig,4,false
+497,11/9/2025,Gerry Haylands,Motherboards,NZXT,47620.6,4,Credit Card,Davao City,5,false
+498,1/30/2025,Auroora Thomsen,PC Cases,Razer,55988.22,3,Debit Card,Pasig,4,false
+499,9/5/2025,Ephrayim Robertelli,Mice,Corsair,99628.39,5,Credit Card,Bacoor,5,true
+500,1/3/2025,Joletta Harget,Keyboards,Zotac,2755.27,4,Debit Card,Mandaluyong,5,false
+501,1/27/2025,Mag Shillingford,Monitors,MSI,52088.38,4,Cash,Bacoor,5,false
+502,8/18/2025,Allistir Spuffard,PC Cases,G.Skill,96518.45,5,GCash,Pasig,1,true
+503,7/27/2025,Yelena Treece,Keyboards,AMD,60315.26,3,Credit Card,Pasig,3,false
+504,8/9/2025,Carolina Janiak,Keyboards,MSI,93497.55,3,Credit Card,Mandaluyong,5,true
+505,5/21/2025,Miltie Moir,Monitors,LG,67466.17,3,GCash,Davao City,2,true
+506,8/5/2025,Mikaela Oslar,PC Cases,MSI,63441.54,3,Credit Card,Pasig,5,false
+507,6/24/2025,Marianna O'Leary,Processors,Seasonic,45411.77,5,Maya,Taguig,5,true
+508,7/16/2025,Ced Sciusscietto,Keyboards,Keychron,83859.94,5,Credit Card,Cebu City,3,false
+509,6/15/2025,Obadias Elizabeth,GPUs,Cooler Master,25532.39,5,Credit Card,Quezon City,3,false
+510,6/12/2025,Marget Pideon,Cooling Systems,NZXT,42888.25,5,GCash,Cebu City,1,false
+511,9/11/2025,Yvette Jeannard,Keyboards,Zotac,40870.73,3,Credit Card,Cebu City,5,false
+512,1/27/2025,Gianni Crichmer,Keyboards,Cooler Master,88156.77,3,Debit Card,Bacoor,5,true
+513,3/28/2025,Delmer Gabey,Keyboards,Razer,80387.73,4,Maya,Taguig,4,false
+514,7/23/2025,Brett Gotling,Keyboards,Intel,82994.42,5,Cash,Davao City,5,false
+515,12/31/2025,Molly Le Brom,Power Supplies,Cooler Master,44709.09,5,Maya,Davao City,2,false
+516,1/19/2025,Tamiko Schusterl,Motherboards,Zotac,6246.42,4,Debit Card,Quezon City,2,true
+517,4/5/2025,Charlot Moysey,Cooling Systems,LG,97301.93,3,Credit Card,Taguig,1,true
+518,8/11/2025,Bailie Crocket,Monitors,Seasonic,42864.85,5,Maya,Bacoor,1,true
+519,12/20/2025,Roarke L'Archer,Processors,Asus,69736.17,4,Credit Card,Mandaluyong,5,false
+520,6/10/2025,Adrien Castillo,RAM,G.Skill,64886.58,4,Maya,Taguig,5,false
+521,8/12/2025,Roderigo Battany,Keyboards,Keychron,58653.19,5,GCash,Mandaluyong,5,false
+522,7/8/2025,Leicester Sawford,Power Supplies,Logitech,36839.57,4,GCash,Mandaluyong,4,false
+523,6/15/2025,Adora Belcham,Monitors,LG,59645.84,5,Cash,Mandaluyong,5,true
+524,12/13/2025,Cori Pauncefort,RAM,Cooler Master,1872.67,5,Debit Card,Bacoor,5,true
+525,8/17/2025,Isiahi Senyard,PC Cases,NZXT,42861.14,5,Maya,Quezon City,4,true
+526,3/15/2025,Herbert Lamort,Power Supplies,Seasonic,64164.15,5,Credit Card,Manila,2,true
+527,11/20/2025,Chrissy Schistl,Cooling Systems,MSI,45204.74,3,Cash,Bacoor,4,false
+528,1/14/2025,Grady Tonkes,PC Cases,Corsair,15505.86,4,Cash,Taguig,5,true
+529,9/18/2025,Augusta Dorin,Power Supplies,Cooler Master,3506.25,5,Maya,Makati,4,false
+530,7/5/2025,Eward Disbrow,Cooling Systems,Asus,45652.71,5,Cash,Mandaluyong,4,false
+531,10/12/2025,Scottie Deans,GPUs,Gigabyte,83294.17,4,Maya,Bacoor,5,true
+532,6/16/2025,Rollo Grabb,Mice,Logitech,10080.35,4,Cash,Cebu City,5,false
+533,10/10/2025,Isacco Syers,Monitors,Logitech,79089.33,3,Credit Card,Manila,3,false
+534,4/11/2025,Sunny Stoile,Power Supplies,Asus,43804.37,3,Credit Card,Pasig,2,true
+535,6/2/2025,Granger Briggs,Mice,Logitech,69485.28,4,Cash,Quezon City,3,true
+536,5/24/2025,Eli Poxson,Power Supplies,LG,5308.29,5,GCash,Cebu City,1,true
+537,10/22/2025,Rubi Doerffer,Processors,G.Skill,54382.32,5,Cash,Makati,1,true
+538,7/18/2025,Gertrud Tuckie,RAM,LG,71027.69,5,GCash,Manila,2,false
+539,9/28/2025,Pietro Frowd,Cooling Systems,Intel,32690.45,3,Cash,Makati,5,false
+540,6/21/2025,Anabal Marishenko,Cooling Systems,AMD,79002.71,4,Debit Card,Bacoor,5,false
+541,8/6/2025,Cori Tallach,Power Supplies,Zotac,98971.31,5,Credit Card,Taguig,1,true
+542,1/21/2025,Steffane Tellett,Cooling Systems,Razer,30293.71,3,Cash,Pasig,4,false
+543,4/17/2025,Corabella Clynmans,Motherboards,LG,82100.91,5,Maya,Pasig,1,true
+544,12/15/2025,Zondra Sharnock,Keyboards,Logitech,93908.53,4,Cash,Quezon City,3,false
+545,2/7/2025,Marcello Mulvin,Keyboards,NZXT,75892.78,3,Credit Card,Taguig,3,false
+546,5/20/2025,Coleen Connerly,Cooling Systems,Zotac,88883.58,3,GCash,Bacoor,2,false
+547,12/31/2025,Inna Tremblot,Mice,LG,34591.32,3,Credit Card,Taguig,3,true
+548,2/18/2025,Corabelle McCallister,RAM,Razer,84227.92,5,Maya,Taguig,3,false
+549,8/31/2025,Dewey Blakden,Monitors,Intel,32829.46,3,Cash,Pasig,4,false
+550,4/16/2025,Thorn Fripps,Mice,Razer,47350.82,3,Credit Card,Taguig,5,true
+551,8/7/2025,Romonda Rizzelli,Power Supplies,AMD,6329.62,3,GCash,Bacoor,5,true
+552,11/7/2025,Conway Fallawe,Motherboards,Logitech,43104.18,4,Cash,Bacoor,2,true
+553,5/23/2025,Elisa Keston,RAM,AMD,48235.06,3,Credit Card,Manila,2,true
+554,3/4/2025,Maiga Ablott,PC Cases,Corsair,75252.73,3,Maya,Mandaluyong,3,false
+555,3/8/2025,Philis Repp,Cooling Systems,G.Skill,33066.77,4,Debit Card,Makati,5,true
+556,12/15/2025,Sam Shilladay,Motherboards,Keychron,73479.05,5,Cash,Pasig,1,false
+557,8/23/2025,Marylou Waldie,Keyboards,Logitech,15884.07,4,Cash,Bacoor,2,true
+558,5/20/2025,Etta Wiffen,Monitors,G.Skill,73514.92,5,GCash,Taguig,3,true
+559,9/10/2025,Yulma Gutridge,Processors,Logitech,96251.28,5,GCash,Taguig,1,true
+560,1/19/2025,Mordecai Loney,Keyboards,Asus,61255.87,3,Maya,Quezon City,2,false
+561,7/3/2025,Gui Margrem,Keyboards,Intel,38666.19,3,Cash,Mandaluyong,2,true
+562,1/14/2025,Debee Waylen,Mice,Intel,43167.95,4,Cash,Pasig,3,true
+563,1/23/2025,Nana Hegel,Power Supplies,Seasonic,3738.77,3,Maya,Mandaluyong,1,false
+564,12/26/2025,Raychel Lilley,PC Cases,LG,56979.61,5,Cash,Bacoor,1,false
+565,7/18/2025,Jon Havercroft,GPUs,Seasonic,96835.66,4,Debit Card,Mandaluyong,5,true
+566,10/8/2025,Corbie Endersby,Keyboards,Asus,39161.24,4,GCash,Taguig,4,false
+567,1/7/2025,Brinn Atcock,PC Cases,Seasonic,60261.57,5,Cash,Taguig,2,false
+568,4/21/2025,Eustacia Filippazzo,GPUs,Asus,86551.97,3,Credit Card,Bacoor,4,false
+569,12/22/2025,Van Drissell,Processors,MSI,86236.79,3,Maya,Pasig,4,true
+570,6/8/2025,Pail Royal,Motherboards,LG,91098.71,5,Debit Card,Davao City,4,true
+571,7/6/2025,Marlee Lancley,GPUs,MSI,25830.28,3,Cash,Pasig,2,true
+572,1/25/2025,Orville Regus,Mice,Keychron,36249.75,3,Maya,Davao City,2,true
+573,3/16/2025,Nada Wimmers,Keyboards,Lian Li,50334.74,4,Maya,Davao City,4,true
+574,5/6/2025,Anny Cockburn,Power Supplies,Cooler Master,94642.28,5,Credit Card,Quezon City,4,true
+575,7/8/2025,Jonie Beavers,Keyboards,AMD,89975.09,5,Cash,Quezon City,4,true
+576,3/20/2025,Onofredo Berrigan,Power Supplies,Asus,75009.54,5,Maya,Makati,2,false
+577,4/17/2025,Genovera Vaudrey,Cooling Systems,AMD,65983.47,5,GCash,Makati,1,true
+578,12/11/2025,Carmelita Osbiston,Processors,Corsair,95232.96,3,Credit Card,Mandaluyong,1,false
+579,8/17/2025,Patrick Tatlow,Power Supplies,Logitech,78850.08,3,Debit Card,Davao City,2,false
+580,5/12/2025,Brooks Buggs,GPUs,Lian Li,51501.97,3,Credit Card,Pasig,5,true
+581,10/3/2025,Jessalyn Le Fleming,PC Cases,Seasonic,6940.02,5,Cash,Makati,3,true
+582,9/9/2025,Rebecca Studeart,Keyboards,AMD,48148.04,4,Cash,Mandaluyong,1,true
+583,4/25/2025,Mellisa Ricoald,Motherboards,MSI,87482.97,4,Cash,Quezon City,2,false
+584,6/28/2025,Annamarie Cloute,Cooling Systems,Samsung,52605.28,5,GCash,Makati,3,true
+585,6/19/2025,Wit Reinhart,Power Supplies,Gigabyte,6928.82,5,Debit Card,Makati,4,false
+586,12/16/2025,Ivett Soloway,Keyboards,LG,78444.65,3,Credit Card,Mandaluyong,2,true
+587,7/8/2025,Chandra Mumford,Keyboards,NZXT,96043.99,3,Debit Card,Davao City,5,false
+588,11/21/2025,Hilliard Kenchington,PC Cases,LG,30735.73,5,GCash,Cebu City,3,false
+589,12/4/2025,Claudian Ovize,Cooling Systems,Corsair,42000.23,4,Cash,Mandaluyong,2,false
+590,6/10/2025,Alfreda Mynett,Cooling Systems,Razer,67376.14,3,GCash,Makati,5,true
+591,4/1/2025,Vergil Garces,RAM,Intel,28897.17,3,Cash,Mandaluyong,3,false
+592,8/21/2025,Gracie Jachtym,GPUs,MSI,25656.34,3,Maya,Bacoor,3,false
+593,6/17/2025,Carline Gostick,Keyboards,Samsung,41670.82,3,Cash,Pasig,2,false
+594,8/21/2025,Jania Gregersen,Power Supplies,NZXT,98279.91,5,Credit Card,Davao City,4,false
+595,3/31/2025,Dagny MacElholm,Keyboards,Logitech,44741.93,5,Cash,Davao City,3,false
+596,2/22/2025,Yoko Chopy,Mice,AMD,14351.08,5,Credit Card,Quezon City,4,false
+597,1/4/2025,Orren Eburne,GPUs,Asus,97349.48,5,Cash,Mandaluyong,3,true
+598,9/29/2025,Ailey Pickburn,Monitors,Samsung,65764.72,5,Debit Card,Manila,2,false
+599,6/21/2025,Odetta Isard,Keyboards,MSI,28315.09,4,Cash,Taguig,1,true
+600,11/22/2025,Skippy Winear,Keyboards,Logitech,10828.77,4,Cash,Cebu City,2,true
+601,9/26/2025,Mason Sellors,Mice,G.Skill,90869.41,3,Debit Card,Pasig,2,true
+602,1/23/2025,Maia Jenoure,Mice,NZXT,3016.41,5,Debit Card,Pasig,2,false
+603,3/10/2025,Freedman Olenichev,Keyboards,Zotac,40506.64,4,GCash,Davao City,1,true
+604,4/6/2025,Harrison Killford,Mice,AMD,45946.96,4,Credit Card,Cebu City,4,true
+605,7/27/2025,Monika Coushe,Power Supplies,LG,91041.37,3,Maya,Makati,5,false
+606,11/1/2025,Gerri Vernham,GPUs,NZXT,614.62,4,GCash,Makati,5,false
+607,12/3/2025,Babette Belbin,Power Supplies,Corsair,85474.17,3,Maya,Quezon City,3,false
+608,4/11/2025,Steward Rubinowitsch,Keyboards,Cooler Master,62802.96,4,Cash,Davao City,2,false
+609,12/16/2025,Glennie Battie,Processors,LG,41885.66,4,GCash,Makati,5,false
+610,3/27/2025,Durward Ilymanov,Mice,Asus,37581.73,5,GCash,Taguig,3,true
+611,5/24/2025,Gaylord Robiot,Monitors,Gigabyte,83239.1,5,Cash,Mandaluyong,2,false
+612,8/24/2025,Veriee Shears,PC Cases,Razer,54379.81,3,Cash,Taguig,1,true
+613,12/15/2025,Mar Strowthers,Monitors,Gigabyte,97608.5,4,Cash,Pasig,3,true
+614,6/5/2025,Rusty Hakonsen,PC Cases,Keychron,29693.56,3,GCash,Quezon City,5,true
+615,4/22/2025,Nappy O'Dempsey,RAM,AMD,63561.86,5,Debit Card,Manila,5,false
+616,1/27/2025,Ryley Kings,Monitors,MSI,19881.88,5,Credit Card,Pasig,5,false
+617,3/7/2025,Charis Bligh,PC Cases,Samsung,20737.21,3,Debit Card,Quezon City,2,true
+618,12/16/2025,Gunilla Praundl,Keyboards,LG,85717.58,4,Debit Card,Cebu City,3,true
+619,6/13/2025,Miner Pottage,Cooling Systems,NZXT,92438.13,5,GCash,Manila,5,true
+620,8/13/2025,Haslett Tissell,Monitors,Seasonic,50831.64,5,GCash,Davao City,4,false
+621,5/1/2025,Derk Matasov,Power Supplies,Gigabyte,70797.03,3,Debit Card,Makati,4,true
+622,5/3/2025,Valentin Rayer,Keyboards,Cooler Master,34264.93,4,Maya,Davao City,1,false
+623,8/3/2025,Morrie Ceney,GPUs,Zotac,25882.52,3,Cash,Mandaluyong,3,true
+624,9/16/2025,Doralynn Bein,GPUs,Asus,97347.19,4,Debit Card,Pasig,3,false
+625,12/26/2025,Eberhard Wrout,Motherboards,AMD,93548.23,5,Debit Card,Cebu City,5,true
+626,12/23/2025,Lissi Bresnen,RAM,Cooler Master,85546.1,3,Cash,Bacoor,2,false
+627,3/18/2025,Jacquelynn Ovett,Motherboards,Lian Li,75289.68,4,GCash,Cebu City,3,true
+628,8/2/2025,Jackqueline Bensusan,GPUs,Intel,34767.95,3,GCash,Bacoor,1,true
+629,7/7/2025,Jeremias Pydcock,Cooling Systems,G.Skill,73286.56,5,Maya,Bacoor,4,false
+630,11/18/2025,Gwenette Croisier,GPUs,Corsair,80956.31,4,GCash,Quezon City,2,false
+631,6/13/2025,Vince Setch,Keyboards,Samsung,30112.57,4,Credit Card,Manila,3,false
+632,4/24/2025,Trudey Whaites,PC Cases,Intel,83159.65,4,Cash,Quezon City,2,false
+633,10/5/2025,Pamela Stranio,Keyboards,Zotac,83429.85,4,Maya,Makati,4,false
+634,2/6/2025,Cari Windrum,GPUs,Zotac,30399.2,5,Credit Card,Cebu City,3,false
+635,3/16/2025,Reinaldos McCue,Keyboards,Corsair,52418.38,3,Credit Card,Davao City,5,true
+636,10/15/2025,Farleigh McClintock,Monitors,Cooler Master,73688.76,4,Maya,Makati,1,false
+637,3/17/2025,Zitella De Giorgis,Processors,Intel,92331.36,5,Cash,Manila,2,false
+638,2/18/2025,Emlynne Bahde,Processors,LG,84313.98,5,GCash,Cebu City,4,true
+639,5/18/2025,Jordain Kissock,GPUs,NZXT,78506.13,5,GCash,Cebu City,4,true
+640,7/20/2025,Alfy Pearmine,Processors,Intel,30995.99,3,Cash,Bacoor,5,true
+641,7/4/2025,Sallyanne Arnaudi,PC Cases,Cooler Master,66668.5,4,Credit Card,Cebu City,2,true
+642,7/3/2025,Mame Saylor,Power Supplies,AMD,10659.0,4,Maya,Manila,2,false
+643,11/14/2025,Bank Byllam,Motherboards,Corsair,36051.02,4,Debit Card,Mandaluyong,5,true
+644,4/25/2025,Renie Metzel,Power Supplies,Corsair,21040.56,5,Maya,Davao City,2,false
+645,5/17/2025,Freddy Lesor,Keyboards,Intel,58981.26,4,GCash,Cebu City,5,false
+646,8/13/2025,Candi Muirhead,Cooling Systems,Asus,16894.11,5,Debit Card,Makati,4,true
+647,11/17/2025,Adorne Braine,Cooling Systems,Razer,11310.44,4,Maya,Mandaluyong,5,false
+648,6/25/2025,Christan Gercken,GPUs,Logitech,27342.57,3,Maya,Manila,1,true
+649,10/7/2025,Jazmin Tansley,GPUs,Zotac,32287.09,4,Debit Card,Davao City,5,true
+650,6/20/2025,Aguistin Northcliffe,GPUs,NZXT,33883.9,4,Credit Card,Manila,1,false
+651,1/21/2025,Dan Stringman,PC Cases,Corsair,83139.64,3,Credit Card,Manila,1,false
+652,9/22/2025,Gaven Mangenot,Cooling Systems,Logitech,81898.41,4,Debit Card,Cebu City,2,false
+653,2/28/2025,Annadiana Swindle,Monitors,Samsung,58239.19,4,GCash,Quezon City,2,true
+654,6/7/2025,Darcy Brackstone,Cooling Systems,AMD,85315.86,4,Debit Card,Quezon City,3,false
+655,4/28/2025,Kellia Filipson,GPUs,Lian Li,55354.15,5,GCash,Pasig,5,false
+656,12/12/2025,Keenan Naulty,Monitors,MSI,24288.95,3,Credit Card,Quezon City,5,false
+657,7/3/2025,Bo Scarff,Processors,MSI,70056.71,5,Cash,Makati,1,false
+658,6/25/2025,Tamara Laurenz,Processors,Corsair,32043.31,3,Credit Card,Mandaluyong,3,true
+659,6/20/2025,Daryl Presser,Monitors,MSI,44035.48,4,Credit Card,Bacoor,5,true
+660,2/7/2025,Berk Longstreet,Mice,Zotac,39615.87,5,Cash,Bacoor,4,true
+661,1/3/2025,Alethea Yurov,Power Supplies,Asus,80920.7,5,Debit Card,Bacoor,3,true
+662,12/20/2025,Hillery Hallyburton,Motherboards,Asus,91982.27,3,Credit Card,Davao City,2,false
+663,3/23/2025,Mallissa Hounihan,Motherboards,Logitech,48042.59,4,Cash,Davao City,1,true
+664,8/26/2025,Dela Gledhall,PC Cases,MSI,25306.53,3,Cash,Davao City,2,true
+665,2/1/2025,Brandea Kaesmakers,Mice,Corsair,84672.91,4,Cash,Taguig,5,true
+666,6/29/2025,Lyndel Wisam,Mice,Lian Li,59957.22,4,Credit Card,Quezon City,3,false
+667,7/26/2025,Baudoin Daton,RAM,Gigabyte,42785.03,3,Cash,Mandaluyong,5,true
+668,10/18/2025,Elora Mattin,Keyboards,Keychron,46477.7,5,Maya,Quezon City,4,true
+669,4/28/2025,Leigha Lerway,Cooling Systems,NZXT,74609.75,5,Maya,Cebu City,5,false
+670,7/4/2025,Allegra Ash,Motherboards,LG,46170.21,5,Maya,Taguig,4,false
+671,8/3/2025,Lutero Matussov,Motherboards,LG,45373.35,5,Credit Card,Taguig,2,true
+672,9/28/2025,Valerye Dunge,GPUs,Razer,18288.41,3,Maya,Bacoor,3,false
+673,3/19/2025,Dante Spatarul,Keyboards,Logitech,87622.39,3,GCash,Cebu City,5,false
+674,9/8/2025,Clemens Hopkyns,Power Supplies,Cooler Master,1705.18,5,Maya,Makati,4,true
+675,11/4/2025,Jessa Bolwell,Processors,Intel,78341.71,3,Credit Card,Bacoor,5,true
+676,4/18/2025,Kati Barcroft,Power Supplies,Gigabyte,91219.75,4,Cash,Quezon City,1,false
+677,1/14/2025,Lauri Ritchings,PC Cases,Gigabyte,29160.95,3,Cash,Taguig,3,false
+678,1/2/2025,Arthur McDougle,Processors,Keychron,69907.91,5,GCash,Manila,4,true
+679,3/19/2025,Roderic Bassford,Monitors,Samsung,95335.39,4,Cash,Mandaluyong,3,false
+680,9/13/2025,Ignazio Fearnall,Mice,Lian Li,21645.35,5,Credit Card,Davao City,5,false
+681,12/26/2025,Miriam Hasney,Processors,LG,81961.44,5,Credit Card,Bacoor,3,true
+682,9/11/2025,Noby Idiens,Mice,Logitech,75527.24,3,Credit Card,Taguig,3,false
+683,12/27/2025,Jenilee Woodrooffe,Monitors,NZXT,88731.13,3,Debit Card,Makati,3,false
+684,10/20/2025,Stacy Carpe,Motherboards,Razer,20140.86,3,Credit Card,Taguig,3,false
+685,4/9/2025,Gaven McNerlin,GPUs,Cooler Master,43863.3,3,Maya,Manila,3,false
+686,8/18/2025,Hasty Brunetti,Mice,Asus,99844.69,3,GCash,Quezon City,4,true
+687,8/5/2025,Ravi Howard,Processors,Samsung,46108.94,4,Cash,Bacoor,5,false
+688,6/4/2025,Nevil Battlestone,PC Cases,Intel,68130.1,4,Maya,Taguig,2,false
+689,9/10/2025,Olivia Munroe,Keyboards,G.Skill,50696.29,4,GCash,Mandaluyong,2,false
+690,7/19/2025,Ogden Galliver,PC Cases,MSI,6617.97,4,Credit Card,Pasig,2,false
+691,5/1/2025,Carce Eastmead,Keyboards,Intel,30732.29,5,Maya,Pasig,5,false
+692,5/15/2025,Jeno Rennard,Power Supplies,Samsung,15867.3,5,Cash,Cebu City,4,false
+693,3/31/2025,Court Skitterel,Processors,NZXT,12189.73,5,GCash,Bacoor,3,false
+694,11/21/2025,Whitby Fawdry,PC Cases,G.Skill,91929.36,5,Debit Card,Quezon City,1,false
+695,12/9/2025,Carey Dabnot,Motherboards,LG,27810.57,3,GCash,Cebu City,2,false
+696,11/5/2025,Byron Balling,Motherboards,Logitech,35164.86,3,Credit Card,Makati,2,true
+697,4/24/2025,Hanni Bilton,Processors,Samsung,58921.3,5,Maya,Manila,2,true
+698,12/13/2025,Lorelle Simkins,GPUs,Lian Li,23233.23,3,Cash,Manila,5,true
+699,7/7/2025,Giraldo Byatt,PC Cases,NZXT,49183.14,3,Maya,Makati,3,true
+700,2/24/2025,Hale Springthorp,PC Cases,Razer,36283.61,4,Credit Card,Makati,1,true
+701,2/18/2025,Corabella Denacamp,Cooling Systems,LG,10850.79,3,Cash,Taguig,2,true
+702,6/19/2025,Mab Pryer,Power Supplies,G.Skill,22983.15,4,Credit Card,Quezon City,3,true
+703,2/16/2025,Brittan Sheere,Processors,AMD,44103.6,3,Debit Card,Manila,2,false
+704,5/2/2025,Hazel Vasyukhin,Motherboards,Samsung,89544.77,5,GCash,Bacoor,2,true
+705,1/1/2025,Ashla Schonfelder,Cooling Systems,Samsung,75574.22,3,Maya,Manila,1,true
+706,1/24/2025,Myrlene Arstingall,GPUs,Cooler Master,91323.88,4,Debit Card,Makati,2,false
+707,7/2/2025,Budd Tall,Cooling Systems,Samsung,52516.11,3,Credit Card,Taguig,4,true
+708,12/3/2025,Jared Handforth,RAM,Samsung,18035.25,5,Credit Card,Pasig,1,false
+709,7/13/2025,Amalee Graybeal,Cooling Systems,Cooler Master,23850.04,5,Debit Card,Quezon City,5,false
+710,5/6/2025,Gustav Honatsch,PC Cases,NZXT,90177.98,5,Maya,Quezon City,1,false
+711,5/11/2025,Halimeda Birley,RAM,G.Skill,66647.72,4,Debit Card,Mandaluyong,5,true
+712,9/1/2025,Christyna Lafranconi,Processors,Gigabyte,88615.39,5,GCash,Manila,3,true
+713,6/20/2025,Jazmin Patek,GPUs,Corsair,54833.14,5,Cash,Cebu City,5,false
+714,1/24/2025,Calli Daville,Motherboards,Corsair,42693.36,5,GCash,Bacoor,1,true
+715,8/21/2025,Jsandye Toward,Mice,Logitech,19349.11,3,GCash,Mandaluyong,3,true
+716,12/27/2025,Benedick Phillins,Processors,Keychron,30508.36,3,GCash,Pasig,4,true
+717,11/10/2025,Bernita Leveridge,Processors,Zotac,14654.95,3,Maya,Makati,2,false
+718,8/26/2025,Staford Zamora,Keyboards,Lian Li,66200.16,3,Cash,Bacoor,5,false
+719,5/10/2025,Torey Scupham,Monitors,Razer,26465.82,3,Credit Card,Mandaluyong,4,false
+720,7/2/2025,Nell Lortzing,Power Supplies,Logitech,51642.85,3,Credit Card,Davao City,1,true
+721,4/24/2025,Kain Knighton,Motherboards,Zotac,7510.96,5,Maya,Taguig,4,false
+722,7/11/2025,Beth Ianni,PC Cases,AMD,39003.35,5,Debit Card,Cebu City,3,true
+723,6/6/2025,Fredrick Riddlesden,RAM,Asus,3013.51,4,Cash,Manila,4,false
+724,12/5/2025,Philbert Dinjes,RAM,Razer,85669.13,5,GCash,Mandaluyong,1,true
+725,10/8/2025,Sargent Lenaghen,Mice,NZXT,59202.17,3,Credit Card,Mandaluyong,5,false
+726,7/12/2025,Debby Bateup,Monitors,MSI,37997.55,5,Credit Card,Bacoor,2,true
+727,12/11/2025,Tarra Strugnell,RAM,Gigabyte,25071.18,3,Credit Card,Makati,3,true
+728,4/12/2025,Ruggiero Duddy,Processors,Intel,42641.09,3,Debit Card,Taguig,2,false
+729,6/20/2025,Teodora Eynald,GPUs,Gigabyte,59026.08,5,GCash,Makati,5,true
+730,9/6/2025,Theodore Trenbey,Monitors,Seasonic,51897.51,3,Credit Card,Davao City,3,false
+731,2/19/2025,Kitty Olexa,Processors,AMD,39379.92,5,Cash,Quezon City,5,true
+732,12/5/2025,Nada Yantsev,Monitors,Zotac,38702.77,4,GCash,Taguig,2,false
+733,7/5/2025,Dede Riditch,Keyboards,Cooler Master,81203.19,5,Credit Card,Cebu City,2,false
+734,8/20/2025,Cozmo Shearer,Power Supplies,Cooler Master,42943.12,3,Maya,Cebu City,4,true
+735,2/4/2025,Deb Leeman,RAM,LG,54138.6,5,Credit Card,Manila,3,true
+736,7/17/2025,Bern Roseblade,Keyboards,Corsair,78261.28,5,Credit Card,Quezon City,1,false
+737,8/3/2025,Pierrette Hubbins,Motherboards,Corsair,73130.74,3,Cash,Taguig,1,true
+738,4/11/2025,Bennett Brandone,Mice,Seasonic,99100.38,4,Debit Card,Manila,3,true
+739,6/13/2025,Emory Dannel,Cooling Systems,Gigabyte,3629.9,5,GCash,Pasig,4,false
+740,1/10/2025,Renate Wathan,Cooling Systems,LG,21487.27,4,Cash,Davao City,4,false
+741,5/3/2025,Mickie Bage,Keyboards,Intel,68004.68,3,Cash,Taguig,4,true
+742,8/13/2025,Shamus Hanrott,Monitors,Gigabyte,56969.74,3,Maya,Manila,3,false
+743,12/10/2025,Britta Faragan,Processors,MSI,85726.85,4,Debit Card,Taguig,5,true
+744,6/28/2025,Letti Gebbie,Processors,AMD,46476.2,3,GCash,Manila,1,false
+745,10/1/2025,Garrott Gutteridge,GPUs,Intel,63548.49,3,Credit Card,Mandaluyong,4,false
+746,10/11/2025,Cathee Linge,GPUs,Seasonic,84851.25,4,GCash,Davao City,3,true
+747,3/12/2025,Janek Hackelton,Keyboards,Razer,34004.39,3,Cash,Bacoor,4,true
+748,3/14/2025,Dehlia Pugsley,Power Supplies,Samsung,61127.76,4,GCash,Makati,3,false
+749,6/12/2025,Mikkel Whear,Motherboards,Gigabyte,11885.32,4,Debit Card,Manila,5,true
+750,11/14/2025,Tobin Oag,Cooling Systems,Asus,32567.17,5,Debit Card,Taguig,5,false
+751,2/5/2025,Fairleigh Chazotte,Motherboards,Keychron,19446.24,4,Maya,Mandaluyong,3,false
+752,12/9/2025,Katuscha Schultze,Keyboards,Asus,43595.61,5,Debit Card,Davao City,2,false
+753,1/17/2025,Adelind O'Neal,Monitors,Lian Li,49381.55,5,GCash,Manila,4,true
+754,1/7/2025,Birch Snailham,Cooling Systems,Razer,901.18,5,Credit Card,Davao City,2,false
+755,11/23/2025,Torre Beretta,Monitors,AMD,44635.72,5,Maya,Taguig,3,false
+756,3/5/2025,Heath O'Clery,Keyboards,Keychron,40731.84,3,GCash,Mandaluyong,5,false
+757,3/9/2025,Eugenius Shreeve,Processors,Samsung,86784.34,3,GCash,Makati,3,true
+758,10/6/2025,Rufus Treneman,Cooling Systems,Razer,47439.62,5,GCash,Davao City,5,true
+759,7/25/2025,Errick Kingscote,Keyboards,Keychron,22932.26,3,Debit Card,Cebu City,1,true
+760,7/23/2025,Fredra Boutton,RAM,Corsair,88884.84,4,Maya,Mandaluyong,1,true
+761,7/19/2025,Sada Merill,Power Supplies,Keychron,37464.42,4,Maya,Bacoor,4,false
+762,10/16/2025,Lila Necrews,RAM,AMD,36443.4,5,GCash,Cebu City,3,false
+763,4/24/2025,Yettie Sewley,Keyboards,Samsung,7690.65,4,Maya,Quezon City,5,true
+764,5/24/2025,Bonnie Spottiswoode,Keyboards,Gigabyte,67590.17,3,Cash,Bacoor,3,true
+765,2/4/2025,Buffy Cowton,Mice,Asus,52194.74,3,Cash,Taguig,5,true
+766,8/3/2025,Daron Wulfinger,Cooling Systems,Samsung,2136.8,4,GCash,Taguig,1,true
+767,5/10/2025,Yvon Vowels,Keyboards,Keychron,15862.26,4,Maya,Pasig,2,false
+768,12/14/2025,Alfonso Fewings,Monitors,Cooler Master,95467.73,3,Cash,Taguig,3,true
+769,10/13/2025,Janina Crackel,Keyboards,Gigabyte,46795.05,5,Cash,Mandaluyong,3,true
+770,3/12/2025,Trace Nicol,Monitors,Intel,84427.53,4,Cash,Davao City,4,true
+771,5/26/2025,Lana Fidian,Processors,Keychron,27297.88,5,GCash,Quezon City,1,true
+772,8/6/2025,Shanan Gockeler,Monitors,Samsung,49691.7,4,Cash,Quezon City,4,true
+773,10/27/2025,Tedra Linacre,RAM,Cooler Master,65723.42,5,Credit Card,Taguig,4,false
+774,11/26/2025,Hewe Dulanty,Cooling Systems,Samsung,23459.85,3,Debit Card,Mandaluyong,4,true
+775,11/2/2025,Brinna Babinski,Keyboards,Razer,90798.35,3,Credit Card,Pasig,2,true
+776,7/28/2025,Gardener Espinoza,Keyboards,NZXT,21507.76,4,Maya,Cebu City,2,false
+777,4/26/2025,Devon Mouat,Processors,Zotac,78345.02,3,Debit Card,Davao City,5,true
+778,11/6/2025,Chaim Ewington,Mice,LG,71323.26,5,Credit Card,Mandaluyong,3,false
+779,8/17/2025,Casandra Joppich,RAM,Seasonic,25592.39,3,Maya,Makati,4,true
+780,4/13/2025,Corty Sudlow,Keyboards,Razer,87128.07,3,GCash,Pasig,1,true
+781,12/2/2025,Sephira Fromont,Mice,MSI,33924.78,4,Debit Card,Cebu City,2,true
+782,1/21/2025,Maryann Jaegar,RAM,MSI,78256.07,5,Debit Card,Davao City,3,false
+783,12/24/2025,Rodina McEnteggart,Power Supplies,Cooler Master,18085.33,4,GCash,Quezon City,2,false
+784,5/29/2025,Astrid Reichhardt,RAM,Cooler Master,58140.04,5,Credit Card,Mandaluyong,4,true
+785,12/27/2025,Alameda Kurt,Power Supplies,Lian Li,35196.44,3,Debit Card,Bacoor,2,false
+786,2/1/2025,Lynn McBrady,Mice,Corsair,74305.11,4,Debit Card,Quezon City,4,true
+787,8/21/2025,Nalani Hrinchenko,Cooling Systems,Intel,38352.46,5,Debit Card,Quezon City,1,true
+788,12/24/2025,Marja Newland,RAM,Samsung,95362.23,4,Cash,Bacoor,1,true
+789,12/3/2025,Meghann Rosser,Mice,Logitech,67422.63,3,Credit Card,Quezon City,1,true
+790,3/18/2025,Hedvig Crosbie,Monitors,Corsair,3943.23,4,Maya,Taguig,3,false
+791,12/7/2025,Emlen Mc-Kerley,GPUs,LG,62125.25,3,Credit Card,Mandaluyong,4,false
+792,4/18/2025,Dalenna Andor,Cooling Systems,AMD,88706.41,5,Debit Card,Manila,4,false
+793,3/11/2025,Nicki Chippindall,Cooling Systems,Keychron,82629.2,4,GCash,Cebu City,5,true
+794,5/6/2025,Inga O'Rafferty,GPUs,Corsair,45513.98,3,Credit Card,Davao City,5,true
+795,2/17/2025,Caspar Hammatt,Monitors,Cooler Master,86979.95,5,Maya,Bacoor,2,true
+796,5/6/2025,Etti Colbridge,Power Supplies,Lian Li,87541.07,5,Debit Card,Quezon City,2,false
+797,11/26/2025,Gonzalo McKeller,PC Cases,Cooler Master,77254.13,3,Debit Card,Davao City,4,true
+798,2/26/2025,Amalle Moneypenny,PC Cases,Lian Li,6951.52,4,Maya,Davao City,1,true
+799,2/11/2025,Sissy Scarlet,PC Cases,Gigabyte,58570.34,5,Cash,Mandaluyong,5,false
+800,2/7/2025,Sheilakathryn Coates,Monitors,Cooler Master,65641.5,3,Cash,Mandaluyong,3,true
+801,11/25/2025,Georgette Faichnie,Processors,Zotac,4688.86,3,Maya,Bacoor,1,true
+802,10/9/2025,Stesha Foucard,Keyboards,Asus,16414.88,4,Maya,Cebu City,5,true
+803,1/30/2025,Dav Zanini,Mice,NZXT,91523.21,3,Credit Card,Pasig,5,true
+804,1/27/2025,Kessia Eckley,GPUs,NZXT,38554.46,4,Debit Card,Pasig,4,false
+805,2/9/2025,Gaynor Dillaway,Motherboards,Cooler Master,87532.33,3,Credit Card,Davao City,5,false
+806,3/25/2025,Kara Rylance,Processors,NZXT,56369.63,5,Cash,Quezon City,2,true
+807,11/19/2025,Beverly Stroban,GPUs,G.Skill,67750.67,5,Cash,Quezon City,5,true
+808,7/25/2025,Yasmin Illidge,GPUs,Lian Li,56831.33,5,Credit Card,Davao City,3,true
+809,8/30/2025,Karlis Avraam,PC Cases,LG,81908.29,3,Debit Card,Davao City,3,true
+810,7/26/2025,Dur Rossborough,Motherboards,LG,52018.45,5,Debit Card,Mandaluyong,3,false
+811,11/29/2025,Elita Sommersett,Cooling Systems,Cooler Master,81404.05,5,Debit Card,Pasig,4,false
+812,7/25/2025,Kaila Bourner,Keyboards,Lian Li,88128.69,5,Debit Card,Cebu City,2,false
+813,7/17/2025,Aarika Maddox,GPUs,AMD,1827.1,5,Credit Card,Taguig,1,false
+814,10/22/2025,Charmion Pocklington,Cooling Systems,Asus,13225.88,4,Cash,Bacoor,4,false
+815,9/18/2025,Alex Vanyarkin,GPUs,MSI,69967.38,5,GCash,Pasig,3,true
+816,12/27/2025,Salomo Pead,Monitors,MSI,25210.6,4,Debit Card,Davao City,4,false
+817,9/12/2025,Tanitansy Norres,Monitors,Gigabyte,6219.38,4,Maya,Makati,2,false
+818,3/30/2025,Prue Sharer,GPUs,G.Skill,1556.23,5,Credit Card,Makati,3,false
+819,1/11/2025,Theo Dutson,RAM,G.Skill,4866.33,3,Cash,Makati,3,true
+820,10/14/2025,Liv Old,RAM,Intel,39870.33,4,Credit Card,Davao City,1,false
+821,3/14/2025,Irma Ankers,Power Supplies,LG,87452.85,5,GCash,Manila,4,true
+822,4/23/2025,Verge Brotherheed,Cooling Systems,Zotac,71701.75,3,Debit Card,Davao City,5,true
+823,4/17/2025,Rebecca Reightley,PC Cases,Logitech,54334.47,3,GCash,Makati,4,true
+824,5/2/2025,Rhody Vouls,Monitors,NZXT,39059.51,5,Debit Card,Pasig,1,false
+825,8/25/2025,Winnie Putten,Cooling Systems,MSI,59815.22,4,Maya,Makati,1,false
+826,10/3/2025,Marietta Lesser,Keyboards,Seasonic,8523.93,3,Maya,Manila,5,false
+827,4/29/2025,Jonie Brugh,Motherboards,NZXT,31735.26,5,Credit Card,Makati,1,false
+828,8/25/2025,Stephanus Ferraro,RAM,Gigabyte,8678.9,4,GCash,Bacoor,4,false
+829,6/24/2025,Marcellina Blundel,Power Supplies,Zotac,61726.97,3,GCash,Makati,5,true
+830,9/9/2025,Bibbye Harrowing,Keyboards,Intel,17141.19,4,Maya,Pasig,1,false
+831,6/18/2025,Lesly Nunn,Monitors,Seasonic,45477.5,5,GCash,Cebu City,2,true
+832,10/20/2025,Karlens Bande,Monitors,Keychron,53282.96,5,Debit Card,Cebu City,5,true
+833,9/3/2025,Sigismundo McMenamin,PC Cases,Intel,48045.36,4,GCash,Pasig,3,false
+834,12/5/2025,Tonia Cawthra,Monitors,Gigabyte,38602.1,3,GCash,Makati,3,false
+835,4/4/2025,Kinna Dumbrall,Mice,AMD,54582.87,5,Maya,Quezon City,5,false
+836,11/5/2025,Evey Hinstridge,Cooling Systems,LG,66954.23,4,Debit Card,Quezon City,5,false
+837,12/1/2025,Judah Trench,Cooling Systems,Zotac,26158.41,4,Maya,Manila,5,false
+838,7/5/2025,Keary Erb,Monitors,Zotac,98781.07,3,Maya,Manila,3,false
+839,4/25/2025,Angie Brokenbrow,Keyboards,Gigabyte,21065.02,5,Cash,Quezon City,4,true
+840,4/26/2025,Theresita McEnteggart,Processors,Seasonic,47694.68,4,Maya,Bacoor,2,true
+841,10/2/2025,Ethelind Herrero,Monitors,Gigabyte,44383.49,5,Credit Card,Davao City,2,false
+842,11/26/2025,Mahmud Kilkenny,GPUs,Logitech,23870.54,4,Cash,Pasig,5,true
+843,10/11/2025,Karlee Shipway,RAM,Cooler Master,34400.81,3,Cash,Taguig,3,false
+844,3/18/2025,Etheline Hubbucks,GPUs,MSI,82701.24,5,Maya,Quezon City,1,false
+845,5/9/2025,Imogen Ambrogelli,Power Supplies,G.Skill,82587.37,4,Debit Card,Quezon City,3,true
+846,1/30/2025,Brice Leneham,RAM,Keychron,10708.04,4,Debit Card,Pasig,5,false
+847,3/12/2025,Steve Naulty,GPUs,MSI,66365.9,3,Maya,Quezon City,4,false
+848,2/8/2025,Corabel Stapele,Processors,Intel,42430.32,3,Debit Card,Taguig,2,true
+849,6/10/2025,Katrine Jollands,PC Cases,Razer,98787.31,5,Cash,Quezon City,4,true
+850,4/1/2025,Tilda Dawson,Keyboards,AMD,53504.74,4,Credit Card,Davao City,4,false
+851,2/7/2025,Gay Scyner,Mice,Gigabyte,63346.79,4,Maya,Quezon City,1,false
+852,11/12/2025,Kennith Hainey`,Monitors,G.Skill,26249.95,4,Cash,Cebu City,2,true
+853,2/1/2025,Winnah Nobes,Cooling Systems,Samsung,27944.26,5,Credit Card,Bacoor,3,false
+854,12/23/2025,Lisle Sutor,PC Cases,MSI,6423.23,3,Debit Card,Makati,3,true
+855,5/25/2025,Gwennie McLarens,Motherboards,LG,47392.3,4,Maya,Quezon City,3,false
+856,8/13/2025,Edvard Gorhardt,PC Cases,AMD,65256.69,3,GCash,Manila,2,true
+857,1/1/2025,Ame Sarjant,Monitors,Asus,6703.76,3,Maya,Manila,1,true
+858,2/20/2025,Ryann Epps,Mice,Asus,44916.41,3,Debit Card,Quezon City,5,true
+859,12/31/2025,Beverly Myhan,Keyboards,Seasonic,48979.4,5,Credit Card,Mandaluyong,3,true
+860,12/12/2025,Riley Roe,Processors,Corsair,21857.67,5,Credit Card,Manila,5,true
+861,8/2/2025,Isidora Jacquemot,Motherboards,Seasonic,17150.16,4,Cash,Bacoor,3,false
+862,8/13/2025,Dore Dellenbrook,Mice,G.Skill,25599.65,4,Cash,Davao City,1,true
+863,3/29/2025,Jobye Bossingham,Cooling Systems,Seasonic,46147.3,3,Debit Card,Quezon City,2,true
+864,11/24/2025,Aimil Moseley,Motherboards,LG,50914.75,5,Debit Card,Cebu City,4,true
+865,8/16/2025,Stormie D'Avaux,RAM,MSI,26377.59,4,Maya,Pasig,1,false
+866,8/13/2025,Joseph Le Jean,Cooling Systems,Razer,15913.88,4,Maya,Pasig,4,true
+867,5/31/2025,Leupold More,PC Cases,Asus,59498.47,3,GCash,Taguig,4,true
+868,9/3/2025,Fionnula Reaman,Cooling Systems,Seasonic,32746.95,3,Maya,Bacoor,1,true
+869,12/7/2025,Immanuel Screase,Processors,Lian Li,99685.83,5,Credit Card,Pasig,4,true
+870,8/23/2025,Dane Salsbury,RAM,Intel,97750.63,3,GCash,Pasig,2,true
+871,1/21/2025,Dixie Pieterick,Keyboards,Cooler Master,45074.84,3,GCash,Manila,3,true
+872,3/26/2025,Valentin Beere,Mice,Logitech,69349.59,3,Cash,Mandaluyong,3,true
+873,10/7/2025,Karoline Chancelier,Cooling Systems,Cooler Master,69601.4,5,Credit Card,Davao City,2,true
+874,11/13/2025,Lionello Passion,PC Cases,Zotac,30641.71,5,GCash,Pasig,4,true
+875,12/7/2025,Rosette Screech,Keyboards,Intel,2604.83,4,GCash,Makati,5,false
+876,4/22/2025,Bent Dine-Hart,Processors,Cooler Master,51918.98,3,Debit Card,Makati,3,false
+877,6/18/2025,Alleen Hurch,GPUs,Corsair,45683.62,3,Maya,Davao City,1,true
+878,6/24/2025,Timoteo Serraillier,RAM,NZXT,6607.76,5,GCash,Quezon City,3,false
+879,4/10/2025,Eustacia Peppett,PC Cases,Asus,51211.69,4,Debit Card,Cebu City,5,true
+880,4/25/2025,Josselyn Jurasz,GPUs,MSI,26412.62,4,Cash,Makati,4,false
+881,2/13/2025,Fairleigh Rudsdell,Motherboards,NZXT,37164.46,5,GCash,Davao City,1,true
+882,4/21/2025,Bentley Crier,GPUs,Cooler Master,92165.59,3,Cash,Bacoor,5,true
+883,9/20/2025,Brett Fricker,Processors,Cooler Master,23130.65,3,Debit Card,Taguig,1,false
+884,3/31/2025,Bren Dartnell,Monitors,Corsair,86745.71,5,Debit Card,Davao City,1,true
+885,5/18/2025,Lulu Illston,Cooling Systems,MSI,49159.48,4,Cash,Bacoor,2,true
+886,5/15/2025,Anny Swadlen,Processors,G.Skill,41789.91,3,GCash,Cebu City,5,true
+887,7/22/2025,Ardyth Nutley,Keyboards,LG,37423.2,5,GCash,Manila,5,true
+888,3/9/2025,Svend Cometto,Processors,Samsung,11767.79,4,GCash,Taguig,2,true
+889,2/7/2025,Kellen Gostridge,Mice,Gigabyte,68092.84,3,Debit Card,Makati,5,false
+890,8/21/2025,Hunter Tuer,Keyboards,Lian Li,66826.22,4,Debit Card,Manila,2,true
+891,8/1/2025,Adah Radki,RAM,Logitech,98254.38,3,GCash,Bacoor,3,false
+892,7/23/2025,Euell Orgee,Motherboards,NZXT,12374.91,3,Maya,Bacoor,3,false
+893,4/29/2025,Frieda Blackhall,Power Supplies,Razer,66222.19,4,Cash,Makati,2,false
+894,5/26/2025,Tobiah Bradbrook,Keyboards,Intel,97410.43,4,Debit Card,Taguig,2,true
+895,1/28/2025,Lynnea Vlahos,Monitors,Gigabyte,75280.25,5,Maya,Davao City,2,true
+896,9/9/2025,Sauveur Damarell,Mice,Asus,49836.26,4,Credit Card,Quezon City,2,false
+897,9/17/2025,Baird Ivanuschka,Monitors,Asus,48026.01,3,GCash,Taguig,5,false
+898,3/10/2025,Gabriellia Matula,Cooling Systems,Lian Li,6527.27,4,GCash,Taguig,3,false
+899,4/21/2025,Ermanno McCann,Monitors,MSI,12725.89,5,Cash,Mandaluyong,2,true
+900,6/28/2025,Pammy Kirkness,Keyboards,Seasonic,39600.09,3,Maya,Davao City,2,true
+901,5/25/2025,Lucien Hathwood,GPUs,Gigabyte,23820.73,3,Cash,Quezon City,2,true
+902,6/22/2025,Poul Jeavon,Mice,Samsung,14716.74,3,Maya,Cebu City,5,true
+903,7/10/2025,Elysha Hammill,PC Cases,MSI,20500.84,5,GCash,Bacoor,5,false
+904,9/8/2025,Cecilius Setterthwait,Motherboards,Cooler Master,75938.8,3,Maya,Bacoor,4,false
+905,7/8/2025,Adore Bartozzi,Processors,Asus,67329.42,4,Maya,Bacoor,2,true
+906,3/19/2025,Ogdan Varran,Monitors,Zotac,79852.12,4,GCash,Mandaluyong,2,false
+907,10/7/2025,Niven Dormer,Keyboards,Logitech,12958.73,4,Credit Card,Davao City,3,true
+908,3/5/2025,Corney Baldcock,Cooling Systems,Corsair,56827.94,4,GCash,Taguig,3,false
+909,1/28/2025,Rudolfo Lyfe,Processors,Seasonic,8715.95,3,GCash,Quezon City,4,true
+910,9/17/2025,Cate Bayless,Monitors,Intel,61695.51,3,Cash,Cebu City,4,true
+911,1/13/2025,Sinclare Hogbin,Motherboards,Samsung,60324.42,4,Debit Card,Taguig,5,true
+912,4/30/2025,Chan Koba,Mice,NZXT,69115.51,4,Maya,Makati,2,false
+913,9/12/2025,Chickie Arondel,Processors,Cooler Master,11204.37,5,GCash,Cebu City,3,true
+914,2/15/2025,Judas Lorking,Processors,Corsair,52606.26,4,Debit Card,Quezon City,2,false
+915,6/20/2025,Karrah Seavers,Motherboards,Zotac,83797.19,5,Cash,Cebu City,1,true
+916,10/6/2025,Sarena Ridesdale,PC Cases,AMD,74818.59,5,GCash,Taguig,4,false
+917,8/5/2025,Rooney Luby,GPUs,LG,11445.34,4,Cash,Cebu City,5,true
+918,9/7/2025,Sigmund Cullrford,Cooling Systems,Razer,87059.86,5,GCash,Pasig,5,true
+919,5/18/2025,Kinna Faltin,GPUs,NZXT,93536.26,5,Cash,Bacoor,2,true
+920,3/12/2025,Noell Langstone,PC Cases,Intel,62395.57,3,Maya,Bacoor,3,true
+921,4/22/2025,Enid Munns,PC Cases,MSI,49302.97,3,Credit Card,Quezon City,4,false
+922,5/22/2025,Rex Cannings,Mice,Gigabyte,64730.44,3,Maya,Manila,2,true
+923,6/12/2025,Fabiano Grigorian,PC Cases,Logitech,29402.45,4,Debit Card,Pasig,2,true
+924,5/15/2025,Salomone Feilden,PC Cases,Keychron,21442.07,5,Debit Card,Pasig,3,false
+925,11/3/2025,Celinka Carlo,Motherboards,Asus,54797.42,4,Credit Card,Makati,4,false
+926,9/24/2025,Calli McFeate,Keyboards,Keychron,10410.26,3,GCash,Mandaluyong,1,true
+927,3/1/2025,Jillie Henstone,Keyboards,AMD,82620.67,4,GCash,Davao City,1,true
+928,10/27/2025,Andonis Adam,Power Supplies,Keychron,36430.07,4,Maya,Mandaluyong,4,true
+929,9/16/2025,Madelin MacCarrane,GPUs,Corsair,76641.86,4,Cash,Makati,2,false
+930,5/6/2025,Tomi Snalom,Keyboards,NZXT,51122.11,3,GCash,Taguig,4,true
+931,5/13/2025,Birk Allbrook,Mice,Razer,41121.59,5,Debit Card,Makati,1,true
+932,8/29/2025,Leonid Murkus,Power Supplies,Logitech,31668.19,3,Maya,Pasig,4,false
+933,3/17/2025,Noam Antley,PC Cases,Corsair,43399.47,4,GCash,Davao City,3,true
+934,6/19/2025,Kip Rubinsky,Cooling Systems,Seasonic,57434.72,4,Cash,Davao City,4,false
+935,3/6/2025,Wilmer Atherley,PC Cases,Asus,84732.8,3,Credit Card,Mandaluyong,5,true
+936,10/3/2025,Eadie Wildber,Mice,Intel,79285.23,5,Credit Card,Taguig,1,true
+937,1/2/2025,Sigmund Alcido,Mice,MSI,10769.98,4,GCash,Davao City,3,false
+938,11/16/2025,Ewen Scini,Power Supplies,Gigabyte,45953.11,4,Debit Card,Makati,2,true
+939,3/11/2025,Inge Throssell,Mice,Asus,91683.51,4,Credit Card,Mandaluyong,2,false
+940,7/22/2025,Cammi Kitlee,Keyboards,MSI,59151.26,3,Debit Card,Davao City,5,false
+941,5/21/2025,Sidney Everingham,RAM,NZXT,1763.81,5,Debit Card,Taguig,1,true
+942,10/6/2025,Lana Wedmore.,Keyboards,LG,58727.56,4,Cash,Makati,3,false
+943,5/12/2025,Flem Hourahan,Motherboards,Gigabyte,52131.23,3,Credit Card,Manila,3,true
+944,11/13/2025,Beulah Davisson,Power Supplies,LG,84047.13,5,Debit Card,Bacoor,2,false
+945,2/20/2025,Sterling Pollicatt,GPUs,Zotac,72414.17,4,Debit Card,Cebu City,2,true
+946,2/14/2025,Anjanette Axston,Power Supplies,Zotac,80501.07,4,GCash,Mandaluyong,3,false
+947,9/21/2025,Cozmo Gilliam,Cooling Systems,Intel,30299.96,5,Cash,Manila,5,true
+948,9/26/2025,De witt Scrimshaw,PC Cases,Lian Li,83356.77,5,Credit Card,Davao City,4,false
+949,2/2/2025,Nahum Huxtable,Mice,Cooler Master,97101.58,4,GCash,Bacoor,1,false
+950,4/10/2025,Gusta Bowlesworth,Motherboards,Samsung,16384.37,5,Maya,Quezon City,5,false
+951,2/21/2025,Cody Hurry,PC Cases,G.Skill,75933.05,4,Credit Card,Taguig,3,true
+952,10/22/2025,Aube Wind,Processors,Cooler Master,58612.49,5,Cash,Quezon City,4,true
+953,4/27/2025,Lilllie Trelease,RAM,Cooler Master,10459.01,5,Maya,Pasig,1,true
+954,4/18/2025,Danny McAuley,GPUs,Lian Li,72694.99,3,Debit Card,Davao City,5,true
+955,12/1/2025,Wilfred Coviello,Processors,Intel,70355.22,5,Cash,Cebu City,1,false
+956,4/26/2025,Nicole Balden,Mice,Zotac,84185.61,4,GCash,Bacoor,4,false
+957,9/11/2025,Freddy Canto,Monitors,Seasonic,30735.52,3,Cash,Pasig,1,true
+958,4/15/2025,Gabriello Stenet,Processors,AMD,88913.53,4,Maya,Bacoor,4,false
+959,10/22/2025,Hildagarde Woodfine,RAM,Logitech,14374.92,5,Credit Card,Davao City,1,true
+960,3/22/2025,Jeramie Lehr,Cooling Systems,NZXT,21636.1,3,GCash,Manila,5,false
+961,8/20/2025,Gustavo Kelly,Keyboards,Zotac,1341.96,5,Cash,Pasig,2,false
+962,3/29/2025,David Bull,Mice,Corsair,96040.69,3,Credit Card,Cebu City,3,false
+963,5/24/2025,Carlynn McGavigan,GPUs,Zotac,34788.74,3,Cash,Mandaluyong,3,true
+964,2/6/2025,Alberta Fairhead,Motherboards,Cooler Master,36861.89,3,Cash,Cebu City,4,true
+965,10/28/2025,Tilda Pauer,RAM,MSI,38619.61,3,Maya,Taguig,2,true
+966,8/12/2025,Napoleon Lancashire,RAM,G.Skill,76281.98,5,Cash,Mandaluyong,1,false
+967,5/8/2025,Sile Alejandri,RAM,Corsair,10380.42,4,Credit Card,Manila,4,false
+968,9/25/2025,Mathian Wyborn,RAM,Corsair,48840.49,5,Debit Card,Davao City,4,true
+969,8/15/2025,Benoit Stidson,Power Supplies,NZXT,50980.1,4,Credit Card,Taguig,2,false
+970,10/19/2025,Aline Swidenbank,GPUs,Zotac,83337.59,4,GCash,Mandaluyong,5,true
+971,10/7/2025,Renate Tabb,Mice,Lian Li,90117.14,3,Credit Card,Makati,2,false
+972,3/13/2025,Holden Olivi,Processors,Zotac,95528.1,4,Debit Card,Taguig,3,true
+973,6/10/2025,Avrit Dreghorn,Mice,Logitech,75663.0,5,Credit Card,Manila,3,true
+974,11/7/2025,Michale Beck,Cooling Systems,Logitech,21916.8,4,Credit Card,Mandaluyong,1,true
+975,11/3/2025,Giffy McGreil,GPUs,Corsair,15886.75,4,GCash,Mandaluyong,4,false
+976,6/3/2025,Carola Lathleiff,Power Supplies,Cooler Master,67551.54,5,Credit Card,Manila,4,true
+977,7/21/2025,Fabian Bravington,GPUs,Asus,4235.64,4,Cash,Cebu City,3,true
+978,10/30/2025,Vaclav Webling,PC Cases,Keychron,47224.28,3,GCash,Quezon City,5,false
+979,4/1/2025,Ingaberg Stoyles,Keyboards,Keychron,18480.51,4,GCash,Taguig,1,false
+980,3/28/2025,Durante Merring,Cooling Systems,Logitech,13317.14,3,Debit Card,Manila,1,true
+981,7/30/2025,Granthem Pointin,Mice,Zotac,83991.58,4,Cash,Mandaluyong,1,true
+982,8/21/2025,Bettye Aikin,RAM,Cooler Master,80091.94,3,GCash,Makati,1,false
+983,7/6/2025,Cherry Tym,PC Cases,Intel,12916.97,4,GCash,Bacoor,3,false
+984,8/19/2025,Elisha Daulby,Monitors,Lian Li,19586.93,4,Maya,Quezon City,5,false
+985,6/14/2025,Melinda Rankling,Processors,Seasonic,9652.35,5,Credit Card,Mandaluyong,4,true
+986,1/3/2025,Mareah Mickelwright,PC Cases,Lian Li,98664.88,4,Maya,Taguig,3,true
+987,3/28/2025,Arvy Tolmie,Mice,NZXT,65910.4,4,GCash,Bacoor,4,false
+988,6/22/2025,Sayre Burehill,PC Cases,Keychron,61910.58,4,Credit Card,Mandaluyong,4,true
+989,3/30/2025,Alexandros Kee,Monitors,Logitech,2830.09,5,Maya,Makati,5,false
+990,9/11/2025,Fidela Dargavel,Cooling Systems,Corsair,86481.19,3,Cash,Quezon City,2,false
+991,12/31/2025,Damaris Perfect,Motherboards,Samsung,35759.01,4,Credit Card,Makati,4,true
+992,5/14/2025,Dani Badman,GPUs,Corsair,12725.75,5,Credit Card,Mandaluyong,4,true
+993,11/22/2025,Evie Baxendale,RAM,Corsair,58582.06,4,Maya,Cebu City,2,false
+994,12/31/2025,Martica Thundercliffe,Power Supplies,Seasonic,60462.37,5,Cash,Pasig,1,true
+995,12/22/2025,Silas McCombe,Power Supplies,Zotac,47997.73,5,GCash,Mandaluyong,1,false
+996,1/12/2025,Clarita Firsby,Power Supplies,MSI,89773.22,3,Maya,Makati,1,true
+997,6/30/2025,Roman Manterfield,Cooling Systems,G.Skill,44167.7,5,Debit Card,Manila,2,true
+998,5/16/2025,Ira Hubbock,Mice,Gigabyte,50432.14,4,Debit Card,Cebu City,2,false
+999,2/5/2025,Binny Eberlein,Processors,MSI,5625.95,3,Maya,Quezon City,4,false
+1000,9/11/2025,Willie Goodhay,Monitors,Seasonic,22963.35,4,Cash,Bacoor,3,false
